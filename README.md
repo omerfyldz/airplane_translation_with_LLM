@@ -1,16 +1,8 @@
 # Airplane-Domain Turkish-English Translation Assistant
 
-This project contains a domain-specific Turkish-English translation assistant for airplane, airport boarding, cabin, passenger, and flight-service situations. It was developed for MIS 48B: Generative AI and Deep Learning, Spring 2025.
+This project contains a domain-specific Turkish-English translation assistant for airplane, airport boarding, cabin, passenger, and flight-service situations.
 
 The system fine-tunes `meta-llama/Llama-3.2-1B-Instruct` with LoRA on an airplane-domain translation dataset and evaluates the fine-tuned model against general and translation-specific baselines.
-
-## Team Members
-
-| Student ID | Name |
-|---|---|
-| 2022300318 | Umut Bülbül |
-| 2019301183 | Ahmet Mirza Duru |
-| 2021300162 | Ömer Faruk Yıldız |
 
 ## Project Goal
 
@@ -465,19 +457,3 @@ Important files:
 - Add human evaluation for adequacy, fluency, and instruction following.
 - Create a simple live demo app for passenger-to-crew translation.
 - Add safety handling for urgent, ambiguous, or sensitive cabin requests.
-
-## Course Context
-
-This project was created for:
-
-```text
-MIS 48B: Generative AI & Deep Learning, Spring 2025
-```
-
-It aligns with the course themes of:
-
-- Large language models
-- LLM fine-tuning
-- AI-powered assistants
-- Domain-specific generative AI applications
-- Evaluation of generative AI systems
