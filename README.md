@@ -30,7 +30,7 @@ The intended product form is phone-based. A passenger or crew member should be a
 
 - A domain-specific Turkish-English airplane translation dataset.
 - LoRA fine-tuning of Llama 3.2 1B Instruct.
-- A merged final model and separate LoRA adapter output.
+- A trained LoRA adapter and reproducible merge/export workflow for the final model.
 - A reproducible evaluation notebook.
 - Direct in-domain comparison against several baseline models.
 - Automatic translation metrics and application-behavior checks.
@@ -214,7 +214,21 @@ airplane_translation_model/merged_final_model/
 
 The adapter folder contains the trained LoRA adapter. The merged final model folder contains the exported configuration and tokenizer files. The full merged model weight can be recreated by rerunning the training notebook's merge/export step using the base Llama model and the saved LoRA adapter.
 
-The `.safetensors` model files are stored with Git LFS because they are binary model artifacts. Install Git LFS before cloning or pulling the repository if the model weights are needed locally.
+### Model Artifact Policy
+
+The repository includes the trained LoRA adapter:
+
+```text
+airplane_translation_model/adapter_lora/adapter_model.safetensors
+```
+
+The full merged model weight is intentionally not included in this repository and is not hosted externally. The local file was too large for the normal project repository workflow. To use the final merged model, rerun the merge/export step in `Notebooks/TRAIN_NOTEBOOK.ipynb` with:
+
+- base model: `meta-llama/Llama-3.2-1B-Instruct`
+- adapter folder: `airplane_translation_model/adapter_lora/`
+- output folder: `airplane_translation_model/merged_final_model/`
+
+This keeps the project reproducible without distributing the large merged model binary.
 
 Training uses the chat-formatted dataset so the model learns the full interaction pattern:
 
