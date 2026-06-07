@@ -1,38 +1,60 @@
 # Airplane-Domain Turkish-English Translation Assistant
 
-This project contains a domain-specific Turkish-English translation assistant for airplane, airport boarding, cabin, passenger, and flight-service situations.
+A domain-specific Turkish-English translation assistant for airplane, airport boarding, cabin, passenger, and flight-service communication.
 
-The system fine-tunes `meta-llama/Llama-3.2-1B-Instruct` with LoRA on an airplane-domain translation dataset and evaluates the fine-tuned model against general and translation-specific baselines.
+The project fine-tunes `meta-llama/Llama-3.2-1B-Instruct` with LoRA on an airplane-domain translation dataset and evaluates the resulting model against general-purpose and translation-specific baselines. The goal is not to build a general machine translation system. The goal is to build a compact assistant that behaves reliably in a narrow travel context: given one Turkish or English sentence, return only the translated sentence.
 
-## Project Goal
+## Why This Project Exists
 
-Airplane cabins involve short, practical, and sometimes time-sensitive multilingual interactions. Passengers may ask about baggage, seat location, water, food restrictions, toilets, children, pets, delays, or arrival information.
+Airplane and airport interactions are short, practical, and often time-sensitive. Passengers may ask about baggage, seats, food, water, toilets, children, pets, delays, boarding, or arrival information. In that setting, a general chatbot can be problematic because it may:
 
-The goal of this project is to build a translation assistant that follows a strict application behavior:
+- answer the request instead of translating it,
+- add explanations or role labels,
+- refuse harmless translation requests,
+- copy the source sentence,
+- leak prompt text such as `Translate to Turkish`.
+
+This project treats translation as an application behavior problem, not only a language-generation problem. The model should produce a clean translated sentence that can be read aloud or shown directly on a phone.
+
+## Core Behavior
 
 ```text
-Given a Turkish or English airplane-domain sentence, return only the translated sentence.
+Input:  a Turkish or English airplane-domain sentence
+Output: only the translated sentence
 ```
 
-This is different from a general chatbot. The model should not answer the passenger request, add explanations, copy the source sentence, or include prompt text.
-
-The intended product form is phone-based. A passenger or crew member should be able to type or paste a short sentence on a mobile device and immediately receive a clean translated sentence that can be read or shown to another person. This is why the project emphasizes concise outputs, no extra explanation, low latency, and behavior checks such as source-copy and prompt-leakage detection.
-
-## Main Contributions
-
-- A domain-specific Turkish-English airplane translation dataset.
-- LoRA fine-tuning of Llama 3.2 1B Instruct.
-- A trained LoRA adapter and reproducible merge/export workflow for the final model.
-- A reproducible evaluation notebook.
-- Direct in-domain comparison against several baseline models.
-- Automatic translation metrics and application-behavior checks.
-- A phone-first application direction for passenger-to-crew translation.
-- Reproducible notebooks and exported evaluation outputs.
-
-## Project Structure
+Example:
 
 ```text
-MIS48B+/
+Input:  I need to use the toilet. It cannot wait.
+Output: Tuvaleti kullanmam gerekiyor. Bekleyemem.
+```
+
+## What Is Included
+
+- Scenario-based airplane-domain Turkish-English dataset.
+- Dataset generation notebook with batching, checkpoints, and scenario chunks.
+- LoRA fine-tuning notebook for Llama 3.2 1B Instruct.
+- Trained LoRA adapter.
+- Exported merged-model configuration and tokenizer files.
+- Evaluation notebook with translation metrics, semantic metrics, behavior checks, and plots.
+- Completed evaluation outputs for a 300-example stratified held-out sample.
+
+## Intended App Experience
+
+The model is designed for a phone-first offline translator interface. The intended user flow is simple:
+
+1. Select translation direction: English to Turkish or Turkish to English.
+2. Enter or speak a short travel-related sentence.
+3. Receive one clean translated sentence.
+4. Optionally use quick phrase buttons for common airport and cabin requests.
+
+The interface concept prioritizes fast passenger-to-crew communication. It avoids long chatbot conversations and focuses on compact output that can be copied, shown on screen, or read aloud. The app-facing behavior checks in the evaluation measure this requirement directly by tracking empty outputs, prompt leakage, source copying, extra explanations, and repetition.
+
+## Repository Structure
+
+```text
+airplane_translation_with_LLM/
   README.md
 
   Notebooks/
@@ -80,7 +102,20 @@ MIS48B+/
     comet_scores.csv
     evaluation_report.md
     *.png
+```
 
+## End-to-End Workflow
+
+```mermaid
+flowchart LR
+  A["Scenario design"] --> B["Batch data generation"]
+  B --> C["Merged translation pairs"]
+  C --> D["Chat-format fine-tuning data"]
+  D --> E["LoRA fine-tuning"]
+  E --> F["Adapter export"]
+  F --> G["Merged-model export"]
+  G --> H["In-domain evaluation"]
+  H --> I["Metrics, plots, and reports"]
 ```
 
 ## Dataset
@@ -91,7 +126,7 @@ The final training dataset is:
 airplane_translation_dataset/final/fine_tune_chat.jsonl
 ```
 
-It contains 50,256 chat-style instruction examples. The root-level `airplane_translation_dataset/fine_tune_chat.jsonl` is a smaller earlier dataset and should not be used as the final evaluation source.
+It contains 50,256 chat-style instruction examples. The root-level `airplane_translation_dataset/fine_tune_chat.jsonl` is an earlier smaller dataset and should not be used as the final evaluation source.
 
 | Category | Count |
 |---|---:|
@@ -101,7 +136,7 @@ It contains 50,256 chat-style instruction examples. The root-level `airplane_tra
 | Held-out split | 1,006 |
 | Default evaluation sample | 300 |
 
-The dataset covers these airplane-domain categories:
+### Domain Coverage
 
 | Domain | Examples |
 |---|---:|
@@ -115,20 +150,22 @@ The dataset covers these airplane-domain categories:
 | Greetings and basic conversation | 2,693 |
 | Pets and service animals | 1,735 |
 
-Each record contains:
+### Record Format
 
-- system instruction,
-- translation prompt,
-- assistant reference translation,
+Each final chat record contains:
+
+- a system instruction defining translation-only behavior,
+- a user translation request,
+- an assistant reference translation,
 - domain metadata,
 - tone and difficulty labels,
-- scenario and speaker/listener information.
+- scenario and speaker/listener metadata.
 
-Direction is encoded in the user prompt, for example `Translate to Turkish:` or `Translate to English:`, and is also stored explicitly in `airplane_translation_dataset/final/pairs_merged.csv` through `source_language` and `target_language`.
+Direction is encoded in the prompt, for example `Translate to Turkish:` or `Translate to English:`. It is also available explicitly in `airplane_translation_dataset/final/pairs_merged.csv` through `source_language` and `target_language`.
 
-## Data Generation Workflow
+## Data Generation Method
 
-The dataset was generated with a scenario-based batching process. Instead of creating one large generic translation list, the project divided airplane communication into focused scenario groups such as:
+The dataset was generated with a scenario-based batching process. Instead of creating one large generic list of translations, the airplane domain was divided into focused scenario groups, including:
 
 - baggage placement and lost items,
 - seat location and cabin movement,
@@ -139,33 +176,34 @@ The dataset was generated with a scenario-based batching process. Instead of cre
 - pets and service animals,
 - greetings and basic help phrases.
 
-Each scenario group was generated in smaller batches for both English-to-Turkish and Turkish-to-English. This batching approach had three practical goals:
+Each scenario group was generated in smaller English-to-Turkish and Turkish-to-English batches. This was done to:
 
-- improve coverage of real airplane situations rather than repeating only simple generic phrases,
-- reduce repeated examples by organizing generation around scenario chunks and merged raw-pair files,
-- make generation recoverable in Colab through checkpoint files if a run stopped or failed.
+- improve coverage of realistic airplane interactions,
+- avoid overusing the same simple generic examples,
+- reduce repeated examples through scenario chunks and merged raw-pair files,
+- make generation recoverable through checkpoint files if a notebook run stopped.
 
-The generation notebook stores intermediate files under:
+Intermediate generation outputs are stored in:
 
 ```text
 airplane_translation_dataset/scenario_chunks/
 airplane_translation_dataset/checkpoints/
 ```
 
-After generation, raw examples are merged into:
+Final merged pair files are stored in:
 
 ```text
 airplane_translation_dataset/final/pairs_merged.csv
 airplane_translation_dataset/final/raw_pairs_merged.jsonl
 ```
 
-The final step converts the merged translation pairs into chat-style instruction records:
+The merged pairs are then converted into chat-style instruction records for supervised fine-tuning:
 
 ```text
 airplane_translation_dataset/final/fine_tune_chat.jsonl
 ```
 
-This chat format matters because the model is trained to follow an application instruction, not only to translate isolated strings. Each training example contains a system instruction, a user translation request, and an assistant response that contains only the translated sentence.
+The chat format is important because the model must learn the full interaction contract, not only isolated string-to-string translation.
 
 ## Model and Training
 
@@ -181,7 +219,7 @@ Fine-tuning method:
 LoRA supervised fine-tuning
 ```
 
-Main training settings:
+Main training configuration:
 
 | Setting | Value |
 |---|---|
@@ -197,32 +235,7 @@ Main training settings:
 | Train/test split | 98% / 2% |
 | Split seed | 42 |
 
-Model output folders:
-
-```text
-airplane_translation_model/adapter_lora/
-airplane_translation_model/merged_final_model/
-```
-
-The adapter folder contains the trained LoRA adapter. The merged final model folder contains the exported configuration and tokenizer files. The full merged model weight can be recreated by rerunning the training notebook's merge/export step using the base Llama model and the saved LoRA adapter.
-
-### Model Artifact Policy
-
-The repository includes the trained LoRA adapter:
-
-```text
-airplane_translation_model/adapter_lora/adapter_model.safetensors
-```
-
-The full merged model weight is intentionally not included in this repository and is not hosted externally. The local file was too large for the normal project repository workflow. To use the final merged model, rerun the merge/export step in `Notebooks/TRAIN_NOTEBOOK.ipynb` with:
-
-- base model: `meta-llama/Llama-3.2-1B-Instruct`
-- adapter folder: `airplane_translation_model/adapter_lora/`
-- output folder: `airplane_translation_model/merged_final_model/`
-
-This keeps the project reproducible without distributing the large merged model binary.
-
-Training uses the chat-formatted dataset so the model learns the full interaction pattern:
+Training uses the chat-formatted dataset:
 
 ```text
 system: translation-only assistant rules
@@ -230,88 +243,77 @@ user: Translate to Turkish/English: ...
 assistant: translated sentence only
 ```
 
-LoRA was used because the goal is narrow domain and behavior adaptation rather than training a new translation model from scratch. The base model weights stay frozen, and only small adapter weights are trained. This makes the experiment practical in Colab while still teaching the model to follow the airplane-domain translation-only behavior.
+LoRA was chosen because the project is focused on narrow domain adaptation and instruction-following behavior. The base model weights remain frozen, and only compact adapter weights are trained.
 
-After training, the project keeps two model-output folders:
+## Model Artifact Policy
 
-- `adapter_lora/`: compact LoRA adapter and tokenizer files,
-- `merged_final_model/`: exported merged-model configuration and tokenizer files; the merged model weight can be regenerated from the adapter and base model.
-
-## Notebooks
-
-### Dataset Generation
+The repository includes the trained LoRA adapter:
 
 ```text
-Notebooks/TR_EN_EN_TR_input_generation.ipynb
+airplane_translation_model/adapter_lora/adapter_model.safetensors
 ```
 
-Generates airplane-domain Turkish-English and English-Turkish translation examples. It creates scenario chunks, checkpoint files, raw pairs, merged pairs, and the final chat-format fine-tuning dataset.
+The full merged model weight is intentionally not included in this repository and is not hosted externally. The local merged weight was too large for the normal repository workflow. To recreate it, rerun the merge/export step in `Notebooks/TRAIN_NOTEBOOK.ipynb` with:
 
-The generation process is intentionally batched by scenario so the dataset covers many airplane situations and avoids depending on a small number of repeated generic examples.
+- base model: `meta-llama/Llama-3.2-1B-Instruct`
+- adapter folder: `airplane_translation_model/adapter_lora/`
+- output folder: `airplane_translation_model/merged_final_model/`
 
-### Training
+The `merged_final_model/` folder in this repository contains exported configuration and tokenizer files, but not the large merged `model.safetensors` binary.
 
-```text
-Notebooks/TRAIN_NOTEBOOK.ipynb
-```
+## Evaluation Design
 
-Fine-tunes Llama 3.2 1B Instruct with LoRA and exports the adapter and merged model.
-
-Hugging Face access may be required for `meta-llama/Llama-3.2-1B-Instruct`.
-
-### Evaluation
-
-```text
-Notebooks/EVALUATION_METRICS.ipynb
-```
-
-Runs direct in-domain evaluation and creates all metric outputs under:
-
-```text
-evaluation_outputs/
-```
-
-The notebook recreates the original held-out split with:
+Evaluation is based on a recreated held-out split:
 
 ```text
 test_size = 0.02
 seed = 42
 ```
 
-The default evaluation uses a fixed stratified 300-example sample. The notebook also includes a switch for evaluating the full held-out split.
+This produces 1,006 held-out examples. The completed exported run uses a fixed 300-example stratified sample to keep runtime manageable while preserving direction and domain coverage.
 
-The file `Notebooks/EVALUATION_METRICS_runned (1).ipynb` is the completed evaluation run copy. The file `Notebooks/EVALUATION_METRICS_original_backup.ipynb` is the original backup.
+Every evaluated model receives the same input rows. This makes the in-domain leaderboard directly comparable.
 
-## Evaluation Metrics
+### Models Evaluated
 
-The evaluation uses both translation-quality metrics and application-behavior checks.
+- Fine-tuned Llama 3.2 1B
+- Base Llama 3.2 1B
+- OPUS-MT tc-big
+- NLLB-200 distilled 600M
+- M2M100 418M
+- mBART-50 many-to-many
 
-Translation metrics:
+### Metrics
+
+Translation quality:
 
 - BLEU
 - chrF++
 - TER
-- BERTScore F1
-- COMET
 - ROUGE-L F1
 - Token F1
 - Edit similarity
 
-Behavior and diagnostic metrics:
+Semantic quality:
 
-- Empty output rate
-- Source-copy rate
-- Prompt-leakage rate
-- Extra-explanation rate
-- Repetition rate
-- Length ratio
-- Average latency
+- BERTScore F1
+- COMET
+
+Application behavior:
+
+- empty-output rate,
+- source-copy rate,
+- prompt-leakage rate,
+- extra-explanation rate,
+- repetition rate,
+- length ratio,
+- average latency.
 
 chrF++ is treated as the headline metric because Turkish morphology makes character-level matching especially useful.
 
-## Current Evaluation Results
+## Evaluation Results
 
-The current completed exported evaluation uses 300 stratified held-out examples.
+The completed exported evaluation uses 300 stratified held-out examples.
 
 | Model | BLEU | chrF++ | TER | BERTScore F1 | COMET | Source Copy | Leakage |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -322,17 +324,17 @@ The current completed exported evaluation uses 300 stratified held-out examples.
 | mBART-50 many-to-many | 26.04 | 46.43 | 59.82 | 0.8557 | 0.7895 | 0.0% | 0.0% |
 | Base Llama 3.2 1B | 4.82 | 15.69 | 115.71 | 0.6864 | 0.5766 | 23.0% | 16.0% |
 
-Interpretation:
+Key interpretation:
 
 - Fine-tuning improved chrF++ by 52.69 points over the base Llama model.
 - Fine-tuning improved BLEU by 46.42 points over the base Llama model.
-- Base Llama had source-copy and prompt-leakage problems.
-- OPUS-MT and NLLB are strong dedicated translation baselines.
-- The correct claim is in-domain airplane validation, not universal Turkish-English translation superiority.
+- Base Llama showed source-copy and prompt-leakage failures.
+- OPUS-MT and NLLB remain strong dedicated translation baselines.
+- The result should be interpreted as in-domain airplane validation, not universal Turkish-English translation superiority.
 
 ## Paired Comparison
 
-The evaluation also compares the fine-tuned model with each baseline on the exact same examples.
+The evaluation also compares the fine-tuned model against each baseline on the exact same examples.
 
 | Comparison | Mean chrF++ Delta | Fine-Tuned Win Rate | Fine-Tuned Loss Rate |
 |---|---:|---:|---:|
@@ -342,9 +344,9 @@ The evaluation also compares the fine-tuned model with each baseline on the exac
 | Fine-tuned vs NLLB-200 distilled 600M | +11.36 | 63.0% | 30.0% |
 | Fine-tuned vs OPUS-MT tc-big | +6.75 | 57.0% | 34.7% |
 
-Paired comparison is important because it tests models on the same input rows rather than comparing unrelated averages.
+Paired comparison is stricter than comparing unrelated averages because it checks model behavior on the same input rows.
 
-## Example Output
+## Qualitative Example
 
 Example from `evaluation_outputs/qualitative_examples.csv`:
 
@@ -357,29 +359,32 @@ Example from `evaluation_outputs/qualitative_examples.csv`:
 | OPUS-MT | Tuvaleti kullanmam lazım, bekleyemez. |
 | NLLB distilled | Tuvalete gitmem gerekiyor. |
 
-This example shows why application behavior matters. The base model gives a refusal-style response, while the fine-tuned model follows the translation-only instruction.
+This example shows why behavior checks matter. The base model gives a refusal-style response, while the fine-tuned model follows the translation-only instruction.
 
-## How to Reproduce
+## Reproduction Guide
 
-The recommended workflow is to run the notebooks in Google Colab.
+The notebooks are designed for Google Colab.
 
-### Step 1: Prepare the project in Google Drive
+### 1. Project Location
 
-Place the project folder in:
+The notebooks were developed with this Google Drive folder:
 
 ```text
 /content/drive/MyDrive/MIS48B+
 ```
 
-The evaluation notebook expects paths similar to:
+If your folder has a different name, update `PROJECT_ROOT` in the setup cells before running training or evaluation.
+
+The notebooks expect paths similar to:
 
 ```text
 /content/drive/MyDrive/MIS48B+/airplane_translation_dataset/final/fine_tune_chat.jsonl
+/content/drive/MyDrive/MIS48B+/airplane_translation_model/adapter_lora
 /content/drive/MyDrive/MIS48B+/airplane_translation_model/merged_final_model
 /content/drive/MyDrive/MIS48B+/evaluation_outputs
 ```
 
-### Step 2: Generate or verify the dataset
+### 2. Generate or Verify the Dataset
 
 Run:
 
@@ -393,7 +398,7 @@ If the final dataset already exists, verify:
 airplane_translation_dataset/final/fine_tune_chat.jsonl
 ```
 
-### Step 3: Train the model
+### 3. Train or Regenerate the Model
 
 Run:
 
@@ -401,9 +406,11 @@ Run:
 Notebooks/TRAIN_NOTEBOOK.ipynb
 ```
 
-If Hugging Face asks for access to Llama, log in with a Hugging Face token in Colab.
+Hugging Face access may be required for `meta-llama/Llama-3.2-1B-Instruct`.
 
-### Step 4: Run evaluation
+The notebook trains the LoRA adapter and can regenerate the merged model weight locally.
+
+### 4. Run Evaluation
 
 Run:
 
@@ -411,21 +418,26 @@ Run:
 Notebooks/EVALUATION_METRICS.ipynb
 ```
 
-For faster testing, use the default 300-example evaluation sample. For the full held-out set, enable:
+Default evaluation:
+
+```text
+RUN_FULL_TEST_SET = False
+EVAL_SAMPLE_SIZE = 300
+```
+
+Full held-out evaluation:
 
 ```text
 RUN_FULL_TEST_SET = True
 ```
 
-## Outputs
+## Output Files
 
 Evaluation outputs are saved under:
 
 ```text
 evaluation_outputs/
 ```
-
-Important files:
 
 | File | Purpose |
 |---|---|
@@ -434,21 +446,27 @@ Important files:
 | `leaderboard.csv` | Presentation-ready model leaderboard |
 | `grouped_metrics.csv` | Metrics grouped by direction, domain, difficulty, and tone |
 | `paired_model_comparison.csv` | Paired fine-tuned-vs-baseline comparison |
-| `qualitative_examples.csv` | Example translations for report/demo |
+| `qualitative_examples.csv` | Example translations |
 | `internet_benchmarks.csv` | External benchmark context only |
 | `comet_scores.csv` | Per-example COMET scores |
-| `evaluation_report.md` | Markdown summary of the evaluation |
+| `evaluation_report.md` | Markdown evaluation summary |
 | `*.png` | Evaluation plots, heatmaps, and comparison charts |
+
+## Scientific Notes
+
+- Direct in-domain results are the main evidence because every model is evaluated on the same airplane-domain examples.
+- External benchmark rows are context only because they use different datasets and metric settings.
+- The dataset is synthetic, so the model may have a style advantage over general translation systems.
+- Automatic metrics can penalize valid paraphrases.
+- Human evaluation is needed for stronger claims about adequacy, fluency, and real-world usefulness.
 
 ## Limitations
 
-- The dataset is synthetic.
 - The held-out split is validation-style, not a blind human-written test set.
-- The fine-tuned model may have a style advantage because references come from the same data-generation pipeline.
-- Automatic metrics can penalize valid paraphrases.
-- Human evaluation is needed for stronger scientific claims.
-- Larger baselines require more compute.
-- A production aviation tool would need safety testing, human review, and clear escalation behavior.
+- The completed exported run uses 300 examples rather than the full 1,006-example held-out split.
+- The full merged model weight is not distributed in this repository.
+- Larger baselines require more runtime and GPU memory.
+- A production aviation tool would need safety testing, human review, and escalation behavior for urgent or sensitive requests.
 
 ## Future Work
 
