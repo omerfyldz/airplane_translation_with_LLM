@@ -1,0 +1,1801 @@
+﻿row_id,model_key,model_name,direction,comet
+434,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.974556028842926
+482,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7533725500106812
+238,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9855371117591858
+953,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9507519602775574
+54,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9793972373008728
+8,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9541064500808716
+421,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9724019765853882
+494,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9731954336166382
+648,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9314772486686707
+801,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9719827175140381
+874,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9812936186790466
+69,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9603860974311829
+115,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9847775101661682
+397,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9393916726112366
+206,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7827423214912415
+697,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9619712233543396
+967,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9296335577964783
+506,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.980094850063324
+120,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.699055016040802
+112,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8626211881637573
+91,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9421380162239075
+82,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8842464089393616
+424,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.944915235042572
+564,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9792532324790955
+609,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9761129021644592
+534,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.877404510974884
+754,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8390536904335022
+118,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7213396430015564
+747,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8888168931007385
+437,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9778860807418823
+255,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9796361327171326
+334,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9805772304534912
+912,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.7992634177207947
+941,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9454492926597595
+457,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8559425473213196
+946,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9757403135299683
+180,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.72579425573349
+62,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9860618710517883
+975,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9445644617080688
+74,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9032838940620422
+202,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9897118806838989
+19,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9710063934326172
+804,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6163967251777649
+209,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9057977795600891
+791,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.7358538508415222
+838,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8914257287979126
+107,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9359105229377747
+147,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7965235114097595
+39,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9882286190986633
+104,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8800104260444641
+931,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9037376046180725
+162,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9610708355903625
+875,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9396846890449524
+948,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8101220726966858
+445,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8388349413871765
+594,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9102518558502197
+661,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9639941453933716
+695,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9857490658760071
+961,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9257994294166565
+555,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9892361760139465
+895,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9873165488243103
+585,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.6475619673728943
+254,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9602919220924377
+212,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7406527400016785
+900,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8912590146064758
+981,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.901472270488739
+501,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.884844958782196
+676,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7120589017868042
+22,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8836060166358948
+70,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6927542686462402
+217,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9618052840232849
+216,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9142526984214783
+321,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8991643786430359
+189,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9646273255348206
+744,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8051477074623108
+561,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6760891079902649
+1001,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9832278490066528
+590,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9753124713897705
+598,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8750842213630676
+486,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9818000197410583
+122,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9273959398269653
+870,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9297180771827698
+0,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8444952368736267
+172,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.987865686416626
+968,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.906670093536377
+1,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9879802465438843
+126,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.940228283405304
+98,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8716197609901428
+821,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9612827897071838
+888,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9387850165367126
+367,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8312874436378479
+53,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.964081346988678
+234,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9642090201377869
+780,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9422795176506042
+988,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.7909902334213257
+57,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.5535286068916321
+81,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9303436875343323
+654,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9009672403335571
+516,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8938265442848206
+970,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.845833957195282
+374,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9072991013526917
+63,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9256995320320129
+215,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9834346175193787
+194,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9784103035926819
+376,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9338856339454651
+347,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.912263035774231
+922,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9526426792144775
+819,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.939348042011261
+319,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8383633494377136
+370,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9902900457382202
+552,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9534891843795776
+205,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.931501030921936
+718,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9082895517349243
+581,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8827177882194519
+101,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9384307265281677
+779,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8850502371788025
+136,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8114585876464844
+123,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9484851956367493
+7,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9606929421424866
+314,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9620597958564758
+787,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9350805282592773
+629,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9639305472373962
+468,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8678678870201111
+177,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9520668387413025
+323,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9855223298072815
+20,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9861735701560974
+902,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.838446855545044
+80,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9139230251312256
+831,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7873418927192688
+186,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9797471165657043
+786,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8719115853309631
+851,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9335439205169678
+882,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7965973019599915
+278,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9151405096054077
+924,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9516714811325073
+141,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8393978476524353
+622,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9710370898246765
+627,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9303035140037537
+318,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9594809412956238
+4,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9182410836219788
+442,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9004477858543396
+297,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9023453593254089
+992,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8004363775253296
+857,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9848753809928894
+193,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9177463054656982
+51,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8953242897987366
+41,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.6106358170509338
+843,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.987189531326294
+523,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.970796525478363
+526,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.771881639957428
+218,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7366750240325928
+399,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9589577913284302
+575,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9468176960945129
+191,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9403654336929321
+805,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9898162484169006
+776,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7823562026023865
+479,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8887922167778015
+752,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8617926239967346
+950,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9172189831733704
+207,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8611740469932556
+745,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9856531023979187
+926,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9539520740509033
+698,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9592463374137878
+94,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9408917427062988
+675,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8849226236343384
+618,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9874201416969299
+867,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9217408299446106
+518,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9046177864074707
+270,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9856356382369995
+521,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8638312220573425
+570,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9649598598480225
+411,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.896672248840332
+75,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9730541706085205
+84,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8321356177330017
+473,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8915651440620422
+463,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.987227201461792
+252,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.980979323387146
+853,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.889444887638092
+286,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9249449968338013
+117,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8789215087890625
+614,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9438077807426453
+854,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8411280512809753
+460,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9328424334526062
+233,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9616873860359192
+653,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8197168111801147
+761,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8921840190887451
+605,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8520060181617737
+938,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9757556319236755
+258,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.92581707239151
+50,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9301719069480896
+905,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8290135860443115
+89,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9807037711143494
+401,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8681161999702454
+527,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9626945853233337
+730,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9757471680641174
+149,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9345697164535522
+159,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.918085515499115
+338,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8016133308410645
+179,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.7641448378562927
+341,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9640247821807861
+86,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8307370543479919
+576,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8829917311668396
+40,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9888354539871216
+95,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8831916451454163
+528,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.946464478969574
+704,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7901551127433777
+148,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9776179194450378
+132,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.891457200050354
+602,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.893061637878418
+860,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9276016354560852
+408,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8725526928901672
+755,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9380349516868591
+485,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9229888319969177
+893,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.670778214931488
+16,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8201315999031067
+198,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9311841130256653
+195,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.6988570094108582
+984,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8371443152427673
+430,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7598181962966919
+659,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9838984608650208
+686,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.6669159531593323
+898,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8021918535232544
+183,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9467568397521973
+372,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7847292423248291
+182,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.987530529499054
+363,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9690597653388977
+27,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9387218356132507
+250,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9838315844535828
+14,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9831864833831787
+232,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9064809679985046
+11,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9181972146034241
+531,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9484421610832214
+836,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.982618510723114
+845,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6510459780693054
+454,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7945399880409241
+610,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9694361090660095
+887,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.96102374792099
+852,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8976218104362488
+471,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7560045719146729
+226,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9799807667732239
+668,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.7777858376502991
+109,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9754055142402649
+587,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8649364709854126
+263,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.972432017326355
+656,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9776301383972168
+520,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9455319046974182
+897,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.952161431312561
+751,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9197633862495422
+450,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9773831963539124
+741,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9537649154663086
+23,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8649511933326721
+35,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9513253569602966
+365,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9891207218170166
+917,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9861199855804443
+539,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8977645039558411
+211,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9756445288658142
+554,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9736179113388062
+290,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9479852318763733
+855,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.938686192035675
+227,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.906587541103363
+300,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8769328594207764
+820,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9480128288269043
+915,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.94367915391922
+187,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9554576277732849
+603,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.841654896736145
+21,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9823848009109497
+261,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9475179314613342
+768,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9847824573516846
+480,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9707567691802979
+658,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9026396870613098
+294,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9831762909889221
+235,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8494027853012085
+265,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9545496702194214
+509,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8879591226577759
+691,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9463050365447998
+158,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9792359471321106
+586,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9198991656303406
+797,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.8307123184204102
+140,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9545494914054871
+601,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9630427360534668
+873,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8010829091072083
+802,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9738941788673401
+26,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9239956140518188
+532,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8558145761489868
+76,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.5860543251037598
+47,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6846211552619934
+2,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9548682570457458
+889,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9438902735710144
+568,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.9557114839553833
+310,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9845245480537415
+251,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9884974360466003
+660,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.6282771825790405
+432,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9923413395881653
+348,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.8651083707809448
+49,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9291498064994812
+582,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.944196879863739
+245,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.935825526714325
+826,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9642797112464905
+949,fine_tuned_llama,Fine-tuned Llama 3.2 1B,Turkish->English,0.927356481552124
+772,fine_tuned_llama,Fine-tuned Llama 3.2 1B,English->Turkish,0.9463314414024353
+434,base_llama,Base Llama 3.2 1B,Turkish->English,0.41867050528526306
+482,base_llama,Base Llama 3.2 1B,Turkish->English,0.57587069272995
+238,base_llama,Base Llama 3.2 1B,Turkish->English,0.6832513213157654
+953,base_llama,Base Llama 3.2 1B,English->Turkish,0.8553392291069031
+54,base_llama,Base Llama 3.2 1B,Turkish->English,0.4158661663532257
+8,base_llama,Base Llama 3.2 1B,Turkish->English,0.4084722399711609
+421,base_llama,Base Llama 3.2 1B,Turkish->English,0.4527648985385895
+494,base_llama,Base Llama 3.2 1B,English->Turkish,0.5368233323097229
+648,base_llama,Base Llama 3.2 1B,English->Turkish,0.38749316334724426
+801,base_llama,Base Llama 3.2 1B,Turkish->English,0.7626721858978271
+874,base_llama,Base Llama 3.2 1B,Turkish->English,0.7690162658691406
+69,base_llama,Base Llama 3.2 1B,English->Turkish,0.6228787899017334
+115,base_llama,Base Llama 3.2 1B,Turkish->English,0.38341832160949707
+397,base_llama,Base Llama 3.2 1B,English->Turkish,0.4947490990161896
+206,base_llama,Base Llama 3.2 1B,Turkish->English,0.6270284056663513
+697,base_llama,Base Llama 3.2 1B,Turkish->English,0.6708254814147949
+967,base_llama,Base Llama 3.2 1B,Turkish->English,0.7277618050575256
+506,base_llama,Base Llama 3.2 1B,Turkish->English,0.8123492002487183
+120,base_llama,Base Llama 3.2 1B,English->Turkish,0.5213624238967896
+112,base_llama,Base Llama 3.2 1B,Turkish->English,0.43355754017829895
+91,base_llama,Base Llama 3.2 1B,English->Turkish,0.3945527672767639
+82,base_llama,Base Llama 3.2 1B,English->Turkish,0.6204421520233154
+424,base_llama,Base Llama 3.2 1B,Turkish->English,0.6468660235404968
+564,base_llama,Base Llama 3.2 1B,Turkish->English,0.4779764711856842
+609,base_llama,Base Llama 3.2 1B,English->Turkish,0.25806277990341187
+534,base_llama,Base Llama 3.2 1B,English->Turkish,0.36900195479393005
+754,base_llama,Base Llama 3.2 1B,Turkish->English,0.42816242575645447
+118,base_llama,Base Llama 3.2 1B,Turkish->English,0.6504212617874146
+747,base_llama,Base Llama 3.2 1B,Turkish->English,0.7143170237541199
+437,base_llama,Base Llama 3.2 1B,Turkish->English,0.7997614741325378
+255,base_llama,Base Llama 3.2 1B,English->Turkish,0.7785723805427551
+334,base_llama,Base Llama 3.2 1B,Turkish->English,0.7737312912940979
+912,base_llama,Base Llama 3.2 1B,English->Turkish,0.6350150108337402
+941,base_llama,Base Llama 3.2 1B,English->Turkish,0.5246456861495972
+457,base_llama,Base Llama 3.2 1B,Turkish->English,0.46413540840148926
+946,base_llama,Base Llama 3.2 1B,English->Turkish,0.723142147064209
+180,base_llama,Base Llama 3.2 1B,English->Turkish,0.4373270571231842
+62,base_llama,Base Llama 3.2 1B,English->Turkish,0.2765515148639679
+975,base_llama,Base Llama 3.2 1B,English->Turkish,0.4409656822681427
+74,base_llama,Base Llama 3.2 1B,English->Turkish,0.654491126537323
+202,base_llama,Base Llama 3.2 1B,English->Turkish,0.8370764255523682
+19,base_llama,Base Llama 3.2 1B,English->Turkish,0.6869780421257019
+804,base_llama,Base Llama 3.2 1B,Turkish->English,0.6250168681144714
+209,base_llama,Base Llama 3.2 1B,English->Turkish,0.6456277966499329
+791,base_llama,Base Llama 3.2 1B,English->Turkish,0.5007719397544861
+838,base_llama,Base Llama 3.2 1B,English->Turkish,0.5174456238746643
+107,base_llama,Base Llama 3.2 1B,Turkish->English,0.7537012696266174
+147,base_llama,Base Llama 3.2 1B,Turkish->English,0.736325740814209
+39,base_llama,Base Llama 3.2 1B,English->Turkish,0.7037063241004944
+104,base_llama,Base Llama 3.2 1B,Turkish->English,0.38233664631843567
+931,base_llama,Base Llama 3.2 1B,Turkish->English,0.6846912503242493
+162,base_llama,Base Llama 3.2 1B,English->Turkish,0.43680790066719055
+875,base_llama,Base Llama 3.2 1B,Turkish->English,0.614886462688446
+948,base_llama,Base Llama 3.2 1B,English->Turkish,0.37679311633110046
+445,base_llama,Base Llama 3.2 1B,Turkish->English,0.8127346634864807
+594,base_llama,Base Llama 3.2 1B,Turkish->English,0.6094503402709961
+661,base_llama,Base Llama 3.2 1B,English->Turkish,0.5228438377380371
+695,base_llama,Base Llama 3.2 1B,English->Turkish,0.6202507615089417
+961,base_llama,Base Llama 3.2 1B,Turkish->English,0.6042995452880859
+555,base_llama,Base Llama 3.2 1B,English->Turkish,0.7138577699661255
+895,base_llama,Base Llama 3.2 1B,Turkish->English,0.40171173214912415
+585,base_llama,Base Llama 3.2 1B,English->Turkish,0.525924563407898
+254,base_llama,Base Llama 3.2 1B,English->Turkish,0.3721144199371338
+212,base_llama,Base Llama 3.2 1B,Turkish->English,0.3955366909503937
+900,base_llama,Base Llama 3.2 1B,Turkish->English,0.7211317420005798
+981,base_llama,Base Llama 3.2 1B,English->Turkish,0.4831570088863373
+501,base_llama,Base Llama 3.2 1B,English->Turkish,0.4580805003643036
+676,base_llama,Base Llama 3.2 1B,Turkish->English,0.5178689956665039
+22,base_llama,Base Llama 3.2 1B,English->Turkish,0.6574044823646545
+70,base_llama,Base Llama 3.2 1B,Turkish->English,0.5212579965591431
+217,base_llama,Base Llama 3.2 1B,English->Turkish,0.3828159272670746
+216,base_llama,Base Llama 3.2 1B,English->Turkish,0.44417253136634827
+321,base_llama,Base Llama 3.2 1B,Turkish->English,0.5087142586708069
+189,base_llama,Base Llama 3.2 1B,Turkish->English,0.4342593848705292
+744,base_llama,Base Llama 3.2 1B,English->Turkish,0.3130201995372772
+561,base_llama,Base Llama 3.2 1B,Turkish->English,0.4826489984989166
+1001,base_llama,Base Llama 3.2 1B,English->Turkish,0.5504018664360046
+590,base_llama,Base Llama 3.2 1B,English->Turkish,0.44379153847694397
+598,base_llama,Base Llama 3.2 1B,English->Turkish,0.625217616558075
+486,base_llama,Base Llama 3.2 1B,Turkish->English,0.8288811445236206
+122,base_llama,Base Llama 3.2 1B,Turkish->English,0.5876074433326721
+870,base_llama,Base Llama 3.2 1B,Turkish->English,0.6351870894432068
+0,base_llama,Base Llama 3.2 1B,English->Turkish,0.5852989554405212
+172,base_llama,Base Llama 3.2 1B,English->Turkish,0.46769604086875916
+968,base_llama,Base Llama 3.2 1B,English->Turkish,0.6913779973983765
+1,base_llama,Base Llama 3.2 1B,English->Turkish,0.6824360489845276
+126,base_llama,Base Llama 3.2 1B,English->Turkish,0.4049849510192871
+98,base_llama,Base Llama 3.2 1B,English->Turkish,0.6599093675613403
+821,base_llama,Base Llama 3.2 1B,English->Turkish,0.5673083662986755
+888,base_llama,Base Llama 3.2 1B,English->Turkish,0.7195224761962891
+367,base_llama,Base Llama 3.2 1B,Turkish->English,0.6238840818405151
+53,base_llama,Base Llama 3.2 1B,English->Turkish,0.355171263217926
+234,base_llama,Base Llama 3.2 1B,English->Turkish,0.5386356711387634
+780,base_llama,Base Llama 3.2 1B,Turkish->English,0.4892618954181671
+988,base_llama,Base Llama 3.2 1B,English->Turkish,0.5539351105690002
+57,base_llama,Base Llama 3.2 1B,English->Turkish,0.4394495189189911
+81,base_llama,Base Llama 3.2 1B,Turkish->English,0.5941172242164612
+654,base_llama,Base Llama 3.2 1B,English->Turkish,0.34379374980926514
+516,base_llama,Base Llama 3.2 1B,Turkish->English,0.4958646595478058
+970,base_llama,Base Llama 3.2 1B,English->Turkish,0.41752946376800537
+374,base_llama,Base Llama 3.2 1B,Turkish->English,0.6724280714988708
+63,base_llama,Base Llama 3.2 1B,English->Turkish,0.6374056339263916
+215,base_llama,Base Llama 3.2 1B,English->Turkish,0.8017706274986267
+194,base_llama,Base Llama 3.2 1B,Turkish->English,0.7643826603889465
+376,base_llama,Base Llama 3.2 1B,Turkish->English,0.5457053780555725
+347,base_llama,Base Llama 3.2 1B,Turkish->English,0.9155089259147644
+922,base_llama,Base Llama 3.2 1B,English->Turkish,0.6231629252433777
+819,base_llama,Base Llama 3.2 1B,English->Turkish,0.38089510798454285
+319,base_llama,Base Llama 3.2 1B,Turkish->English,0.4003155529499054
+370,base_llama,Base Llama 3.2 1B,English->Turkish,0.6142644882202148
+552,base_llama,Base Llama 3.2 1B,English->Turkish,0.6156327128410339
+205,base_llama,Base Llama 3.2 1B,Turkish->English,0.5465967059135437
+718,base_llama,Base Llama 3.2 1B,English->Turkish,0.5636242032051086
+581,base_llama,Base Llama 3.2 1B,Turkish->English,0.7282595038414001
+101,base_llama,Base Llama 3.2 1B,Turkish->English,0.5006740689277649
+779,base_llama,Base Llama 3.2 1B,English->Turkish,0.4934285581111908
+136,base_llama,Base Llama 3.2 1B,English->Turkish,0.4475003778934479
+123,base_llama,Base Llama 3.2 1B,Turkish->English,0.6166699528694153
+7,base_llama,Base Llama 3.2 1B,Turkish->English,0.3962292969226837
+314,base_llama,Base Llama 3.2 1B,Turkish->English,0.7907138466835022
+787,base_llama,Base Llama 3.2 1B,English->Turkish,0.700888454914093
+629,base_llama,Base Llama 3.2 1B,Turkish->English,0.7705797553062439
+468,base_llama,Base Llama 3.2 1B,Turkish->English,0.4434530735015869
+177,base_llama,Base Llama 3.2 1B,Turkish->English,0.4136720597743988
+323,base_llama,Base Llama 3.2 1B,English->Turkish,0.6783736348152161
+20,base_llama,Base Llama 3.2 1B,Turkish->English,0.777414858341217
+902,base_llama,Base Llama 3.2 1B,English->Turkish,0.49741330742836
+80,base_llama,Base Llama 3.2 1B,English->Turkish,0.37681037187576294
+831,base_llama,Base Llama 3.2 1B,Turkish->English,0.4763749837875366
+186,base_llama,Base Llama 3.2 1B,Turkish->English,0.4232551157474518
+786,base_llama,Base Llama 3.2 1B,English->Turkish,0.3164902925491333
+851,base_llama,Base Llama 3.2 1B,English->Turkish,0.33001887798309326
+882,base_llama,Base Llama 3.2 1B,Turkish->English,0.6212888360023499
+278,base_llama,Base Llama 3.2 1B,English->Turkish,0.5716338753700256
+924,base_llama,Base Llama 3.2 1B,Turkish->English,0.6723831295967102
+141,base_llama,Base Llama 3.2 1B,Turkish->English,0.6867983937263489
+622,base_llama,Base Llama 3.2 1B,Turkish->English,0.9593471884727478
+627,base_llama,Base Llama 3.2 1B,Turkish->English,0.7091243863105774
+318,base_llama,Base Llama 3.2 1B,Turkish->English,0.418962687253952
+4,base_llama,Base Llama 3.2 1B,English->Turkish,0.6238183379173279
+442,base_llama,Base Llama 3.2 1B,English->Turkish,0.47650936245918274
+297,base_llama,Base Llama 3.2 1B,English->Turkish,0.5566351413726807
+992,base_llama,Base Llama 3.2 1B,Turkish->English,0.5989906191825867
+857,base_llama,Base Llama 3.2 1B,English->Turkish,0.6582720279693604
+193,base_llama,Base Llama 3.2 1B,Turkish->English,0.5128787755966187
+51,base_llama,Base Llama 3.2 1B,Turkish->English,0.8545970916748047
+41,base_llama,Base Llama 3.2 1B,English->Turkish,0.3258777856826782
+843,base_llama,Base Llama 3.2 1B,English->Turkish,0.6485703587532043
+523,base_llama,Base Llama 3.2 1B,English->Turkish,0.629834771156311
+526,base_llama,Base Llama 3.2 1B,English->Turkish,0.4965880215167999
+218,base_llama,Base Llama 3.2 1B,Turkish->English,0.32321223616600037
+399,base_llama,Base Llama 3.2 1B,English->Turkish,0.5381819605827332
+575,base_llama,Base Llama 3.2 1B,Turkish->English,0.7562975287437439
+191,base_llama,Base Llama 3.2 1B,Turkish->English,0.7384939789772034
+805,base_llama,Base Llama 3.2 1B,Turkish->English,0.5397244095802307
+776,base_llama,Base Llama 3.2 1B,Turkish->English,0.6311643719673157
+479,base_llama,Base Llama 3.2 1B,Turkish->English,0.5442216396331787
+752,base_llama,Base Llama 3.2 1B,English->Turkish,0.6878949403762817
+950,base_llama,Base Llama 3.2 1B,Turkish->English,0.31546059250831604
+207,base_llama,Base Llama 3.2 1B,English->Turkish,0.5103685259819031
+745,base_llama,Base Llama 3.2 1B,Turkish->English,0.692604124546051
+926,base_llama,Base Llama 3.2 1B,Turkish->English,0.6414222121238708
+698,base_llama,Base Llama 3.2 1B,English->Turkish,0.29048752784729004
+94,base_llama,Base Llama 3.2 1B,English->Turkish,0.6915586590766907
+675,base_llama,Base Llama 3.2 1B,English->Turkish,0.4102902114391327
+618,base_llama,Base Llama 3.2 1B,English->Turkish,0.6435584425926208
+867,base_llama,Base Llama 3.2 1B,Turkish->English,0.6233953833580017
+518,base_llama,Base Llama 3.2 1B,Turkish->English,0.5512530207633972
+270,base_llama,Base Llama 3.2 1B,Turkish->English,0.8473752737045288
+521,base_llama,Base Llama 3.2 1B,English->Turkish,0.41228732466697693
+570,base_llama,Base Llama 3.2 1B,English->Turkish,0.5849364995956421
+411,base_llama,Base Llama 3.2 1B,Turkish->English,0.7111483216285706
+75,base_llama,Base Llama 3.2 1B,Turkish->English,0.8243998885154724
+84,base_llama,Base Llama 3.2 1B,English->Turkish,0.4032464921474457
+473,base_llama,Base Llama 3.2 1B,English->Turkish,0.49373260140419006
+463,base_llama,Base Llama 3.2 1B,Turkish->English,0.5881592035293579
+252,base_llama,Base Llama 3.2 1B,English->Turkish,0.5339612364768982
+853,base_llama,Base Llama 3.2 1B,English->Turkish,0.3631706237792969
+286,base_llama,Base Llama 3.2 1B,Turkish->English,0.6482676863670349
+117,base_llama,Base Llama 3.2 1B,English->Turkish,0.49281176924705505
+614,base_llama,Base Llama 3.2 1B,Turkish->English,0.759801983833313
+854,base_llama,Base Llama 3.2 1B,English->Turkish,0.31751784682273865
+460,base_llama,Base Llama 3.2 1B,Turkish->English,0.8476914763450623
+233,base_llama,Base Llama 3.2 1B,Turkish->English,0.8037420511245728
+653,base_llama,Base Llama 3.2 1B,English->Turkish,0.4088309705257416
+761,base_llama,Base Llama 3.2 1B,Turkish->English,0.4696679413318634
+605,base_llama,Base Llama 3.2 1B,Turkish->English,0.6110679507255554
+938,base_llama,Base Llama 3.2 1B,Turkish->English,0.7225154042243958
+258,base_llama,Base Llama 3.2 1B,English->Turkish,0.7233901619911194
+50,base_llama,Base Llama 3.2 1B,English->Turkish,0.5213472247123718
+905,base_llama,Base Llama 3.2 1B,English->Turkish,0.5060319304466248
+89,base_llama,Base Llama 3.2 1B,Turkish->English,0.6905200481414795
+401,base_llama,Base Llama 3.2 1B,Turkish->English,0.8593688607215881
+527,base_llama,Base Llama 3.2 1B,Turkish->English,0.6391058564186096
+730,base_llama,Base Llama 3.2 1B,Turkish->English,0.25044313073158264
+149,base_llama,Base Llama 3.2 1B,English->Turkish,0.48547273874282837
+159,base_llama,Base Llama 3.2 1B,Turkish->English,0.734192967414856
+338,base_llama,Base Llama 3.2 1B,Turkish->English,0.6172688007354736
+179,base_llama,Base Llama 3.2 1B,English->Turkish,0.6332837343215942
+341,base_llama,Base Llama 3.2 1B,Turkish->English,0.9150018692016602
+86,base_llama,Base Llama 3.2 1B,English->Turkish,0.4441501200199127
+576,base_llama,Base Llama 3.2 1B,English->Turkish,0.5684804320335388
+40,base_llama,Base Llama 3.2 1B,English->Turkish,0.6902624368667603
+95,base_llama,Base Llama 3.2 1B,Turkish->English,0.9058430194854736
+528,base_llama,Base Llama 3.2 1B,Turkish->English,0.7598838210105896
+704,base_llama,Base Llama 3.2 1B,Turkish->English,0.45393314957618713
+148,base_llama,Base Llama 3.2 1B,Turkish->English,0.7977328300476074
+132,base_llama,Base Llama 3.2 1B,English->Turkish,0.6056888699531555
+602,base_llama,Base Llama 3.2 1B,English->Turkish,0.3178305923938751
+860,base_llama,Base Llama 3.2 1B,English->Turkish,0.3459823727607727
+408,base_llama,Base Llama 3.2 1B,English->Turkish,0.6112099885940552
+755,base_llama,Base Llama 3.2 1B,Turkish->English,0.7198801636695862
+485,base_llama,Base Llama 3.2 1B,English->Turkish,0.5594553351402283
+893,base_llama,Base Llama 3.2 1B,English->Turkish,0.655072033405304
+16,base_llama,Base Llama 3.2 1B,Turkish->English,0.6332067251205444
+198,base_llama,Base Llama 3.2 1B,English->Turkish,0.5445986986160278
+195,base_llama,Base Llama 3.2 1B,English->Turkish,0.5337215662002563
+984,base_llama,Base Llama 3.2 1B,Turkish->English,0.5922004580497742
+430,base_llama,Base Llama 3.2 1B,Turkish->English,0.7042943239212036
+659,base_llama,Base Llama 3.2 1B,English->Turkish,0.3423255980014801
+686,base_llama,Base Llama 3.2 1B,English->Turkish,0.4624265730381012
+898,base_llama,Base Llama 3.2 1B,Turkish->English,0.8245952129364014
+183,base_llama,Base Llama 3.2 1B,Turkish->English,0.5133688449859619
+372,base_llama,Base Llama 3.2 1B,Turkish->English,0.6824514269828796
+182,base_llama,Base Llama 3.2 1B,English->Turkish,0.7057968378067017
+363,base_llama,Base Llama 3.2 1B,Turkish->English,0.8744916319847107
+27,base_llama,Base Llama 3.2 1B,English->Turkish,0.6979178190231323
+250,base_llama,Base Llama 3.2 1B,English->Turkish,0.3912944495677948
+14,base_llama,Base Llama 3.2 1B,Turkish->English,0.4051288664340973
+232,base_llama,Base Llama 3.2 1B,Turkish->English,0.5413723587989807
+11,base_llama,Base Llama 3.2 1B,English->Turkish,0.6684610247612
+531,base_llama,Base Llama 3.2 1B,Turkish->English,0.37824445962905884
+836,base_llama,Base Llama 3.2 1B,Turkish->English,0.6376937627792358
+845,base_llama,Base Llama 3.2 1B,Turkish->English,0.7457095980644226
+454,base_llama,Base Llama 3.2 1B,Turkish->English,0.6257433295249939
+610,base_llama,Base Llama 3.2 1B,English->Turkish,0.42960187792778015
+887,base_llama,Base Llama 3.2 1B,English->Turkish,0.5635097026824951
+852,base_llama,Base Llama 3.2 1B,English->Turkish,0.608822762966156
+471,base_llama,Base Llama 3.2 1B,Turkish->English,0.6461603045463562
+226,base_llama,Base Llama 3.2 1B,Turkish->English,0.46480685472488403
+668,base_llama,Base Llama 3.2 1B,Turkish->English,0.8611751794815063
+109,base_llama,Base Llama 3.2 1B,Turkish->English,0.7543572783470154
+587,base_llama,Base Llama 3.2 1B,Turkish->English,0.7744712233543396
+263,base_llama,Base Llama 3.2 1B,English->Turkish,0.4153847396373749
+656,base_llama,Base Llama 3.2 1B,Turkish->English,0.8915237784385681
+520,base_llama,Base Llama 3.2 1B,English->Turkish,0.28398045897483826
+897,base_llama,Base Llama 3.2 1B,Turkish->English,0.6160071492195129
+751,base_llama,Base Llama 3.2 1B,Turkish->English,0.522923469543457
+450,base_llama,Base Llama 3.2 1B,Turkish->English,0.9568548202514648
+741,base_llama,Base Llama 3.2 1B,English->Turkish,0.6740430593490601
+23,base_llama,Base Llama 3.2 1B,English->Turkish,0.5394660830497742
+35,base_llama,Base Llama 3.2 1B,English->Turkish,0.4739587903022766
+365,base_llama,Base Llama 3.2 1B,English->Turkish,0.3398542106151581
+917,base_llama,Base Llama 3.2 1B,English->Turkish,0.5375803709030151
+539,base_llama,Base Llama 3.2 1B,English->Turkish,0.2614523470401764
+211,base_llama,Base Llama 3.2 1B,English->Turkish,0.36841514706611633
+554,base_llama,Base Llama 3.2 1B,English->Turkish,0.4330022931098938
+290,base_llama,Base Llama 3.2 1B,English->Turkish,0.6320433020591736
+855,base_llama,Base Llama 3.2 1B,Turkish->English,0.6984874606132507
+227,base_llama,Base Llama 3.2 1B,English->Turkish,0.6265862584114075
+300,base_llama,Base Llama 3.2 1B,English->Turkish,0.5915742516517639
+820,base_llama,Base Llama 3.2 1B,English->Turkish,0.4390878975391388
+915,base_llama,Base Llama 3.2 1B,Turkish->English,0.8522875308990479
+187,base_llama,Base Llama 3.2 1B,English->Turkish,0.4069576561450958
+603,base_llama,Base Llama 3.2 1B,English->Turkish,0.6226301789283752
+21,base_llama,Base Llama 3.2 1B,Turkish->English,0.623805820941925
+261,base_llama,Base Llama 3.2 1B,Turkish->English,0.6954421401023865
+768,base_llama,Base Llama 3.2 1B,English->Turkish,0.5750369429588318
+480,base_llama,Base Llama 3.2 1B,Turkish->English,0.4127209484577179
+658,base_llama,Base Llama 3.2 1B,Turkish->English,0.5586254000663757
+294,base_llama,Base Llama 3.2 1B,English->Turkish,0.7148672938346863
+235,base_llama,Base Llama 3.2 1B,English->Turkish,0.3913278877735138
+265,base_llama,Base Llama 3.2 1B,Turkish->English,0.6538887619972229
+509,base_llama,Base Llama 3.2 1B,Turkish->English,0.5621271729469299
+691,base_llama,Base Llama 3.2 1B,Turkish->English,0.7083813548088074
+158,base_llama,Base Llama 3.2 1B,Turkish->English,0.7252910733222961
+586,base_llama,Base Llama 3.2 1B,Turkish->English,0.41197606921195984
+797,base_llama,Base Llama 3.2 1B,English->Turkish,0.3874160349369049
+140,base_llama,Base Llama 3.2 1B,English->Turkish,0.482954204082489
+601,base_llama,Base Llama 3.2 1B,Turkish->English,0.5412716269493103
+873,base_llama,Base Llama 3.2 1B,Turkish->English,0.6899294257164001
+802,base_llama,Base Llama 3.2 1B,English->Turkish,0.48863402009010315
+26,base_llama,Base Llama 3.2 1B,Turkish->English,0.7006620764732361
+532,base_llama,Base Llama 3.2 1B,Turkish->English,0.307120680809021
+76,base_llama,Base Llama 3.2 1B,Turkish->English,0.5347272753715515
+47,base_llama,Base Llama 3.2 1B,Turkish->English,0.5019168257713318
+2,base_llama,Base Llama 3.2 1B,Turkish->English,0.820737898349762
+889,base_llama,Base Llama 3.2 1B,English->Turkish,0.4102109968662262
+568,base_llama,Base Llama 3.2 1B,Turkish->English,0.5270069241523743
+310,base_llama,Base Llama 3.2 1B,English->Turkish,0.3602274954319
+251,base_llama,Base Llama 3.2 1B,English->Turkish,0.36515259742736816
+660,base_llama,Base Llama 3.2 1B,Turkish->English,0.7500349879264832
+432,base_llama,Base Llama 3.2 1B,English->Turkish,0.6589833498001099
+348,base_llama,Base Llama 3.2 1B,Turkish->English,0.7059997320175171
+49,base_llama,Base Llama 3.2 1B,English->Turkish,0.5123072862625122
+582,base_llama,Base Llama 3.2 1B,Turkish->English,0.7952103614807129
+245,base_llama,Base Llama 3.2 1B,English->Turkish,0.7967134118080139
+826,base_llama,Base Llama 3.2 1B,English->Turkish,0.5049318075180054
+949,base_llama,Base Llama 3.2 1B,Turkish->English,0.48598968982696533
+772,base_llama,Base Llama 3.2 1B,English->Turkish,0.6115630269050598
+434,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9497695565223694
+482,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8843547701835632
+238,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9757803082466125
+953,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9906942248344421
+54,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7104905843734741
+8,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8793918490409851
+421,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9724019765853882
+494,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9812944531440735
+648,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9402889609336853
+801,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9348872900009155
+874,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9812936186790466
+69,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9241982102394104
+115,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9626379609107971
+397,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9830624461174011
+206,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8377416729927063
+697,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8909303545951843
+967,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9699280858039856
+506,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.980094850063324
+120,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9281936287879944
+112,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8890366554260254
+91,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8722470998764038
+82,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8049268126487732
+424,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.959923505783081
+564,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9792532324790955
+609,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7162299156188965
+534,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9021424651145935
+754,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8714231848716736
+118,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8662402033805847
+747,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8914491534233093
+437,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9349967837333679
+255,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9736060500144958
+334,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.974639356136322
+912,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9366004467010498
+941,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.850361168384552
+457,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8819734454154968
+946,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9757403135299683
+180,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8966830372810364
+62,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.5173727869987488
+975,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9569665789604187
+74,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9299582242965698
+202,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9497708678245544
+19,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9183756113052368
+804,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8518694639205933
+209,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9515714049339294
+791,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9496801495552063
+838,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9513625502586365
+107,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8514915108680725
+147,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8722869753837585
+39,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9882286190986633
+104,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9024800658226013
+931,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9843428730964661
+162,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9481125473976135
+875,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8872870206832886
+948,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9024433493614197
+445,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7865204215049744
+594,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.874978244304657
+661,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9696157574653625
+695,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9199830293655396
+961,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9203659296035767
+555,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.5361360311508179
+895,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9873165488243103
+585,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7300438284873962
+254,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9821742177009583
+212,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7820379137992859
+900,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8904074430465698
+981,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8797385096549988
+501,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8562252521514893
+676,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7083987593650818
+22,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9553735852241516
+70,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.5391818881034851
+217,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9441303610801697
+216,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9247493147850037
+321,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7862920761108398
+189,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8159121870994568
+744,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8509162068367004
+561,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8518128395080566
+1001,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8941625952720642
+590,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8696352243423462
+598,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9204728007316589
+486,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9818000197410583
+122,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8981127142906189
+870,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8866906762123108
+0,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9439173340797424
+172,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.987865686416626
+968,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9706869125366211
+1,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9803040027618408
+126,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9159954786300659
+98,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9155620336532593
+821,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9612827897071838
+888,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9708406329154968
+367,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.6928979158401489
+53,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9422480463981628
+234,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8638868927955627
+780,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8607531189918518
+988,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8479055762290955
+57,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.866648256778717
+81,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9022060632705688
+654,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8373565077781677
+516,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8407689332962036
+970,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8687725067138672
+374,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9053122997283936
+63,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9920753240585327
+215,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9249247908592224
+194,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.949550211429596
+376,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8961898684501648
+347,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9217838644981384
+922,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8743177652359009
+819,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9566817879676819
+319,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7462247610092163
+370,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9824376106262207
+552,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9536598324775696
+205,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9497547149658203
+718,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9496681094169617
+581,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9757882356643677
+101,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.906937301158905
+779,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9289795160293579
+136,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7544384598731995
+123,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7869833111763
+7,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8492631316184998
+314,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9593388438224792
+787,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7815789580345154
+629,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9450772404670715
+468,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9272732138633728
+177,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.984626829624176
+323,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9855223298072815
+20,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9702102541923523
+902,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8675099611282349
+80,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8617923855781555
+831,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8458428978919983
+186,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9137706756591797
+786,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9391664266586304
+851,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8510249257087708
+882,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9818399548530579
+278,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8163033127784729
+924,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.904069721698761
+141,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.719836413860321
+622,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.966788113117218
+627,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8871073126792908
+318,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9249173998832703
+4,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9573304057121277
+442,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9054310321807861
+297,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9564125537872314
+992,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8734909296035767
+857,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7906411290168762
+193,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.892937958240509
+51,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8879097104072571
+41,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.779818594455719
+843,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9346673488616943
+523,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8422828316688538
+526,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9241799116134644
+218,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7382174730300903
+399,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9544031023979187
+575,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9271541237831116
+191,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9229632616043091
+805,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9898162484169006
+776,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9097164273262024
+479,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9281499981880188
+752,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9189268350601196
+950,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.826080858707428
+207,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8040962219238281
+745,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9856531023979187
+926,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9016588926315308
+698,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9323648810386658
+94,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9882017374038696
+675,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9323853254318237
+618,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9492518901824951
+867,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7802637219429016
+518,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8339706659317017
+270,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9856356382369995
+521,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9497366547584534
+570,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9313264489173889
+411,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.681427001953125
+75,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8437339663505554
+84,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.90572589635849
+473,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9620969891548157
+463,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.987227201461792
+252,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9444542527198792
+853,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8251515626907349
+286,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9032960534095764
+117,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8029482960700989
+614,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9260722994804382
+854,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7181047797203064
+460,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8711747527122498
+233,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9092021584510803
+653,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9856276512145996
+761,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8450378775596619
+605,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8847187161445618
+938,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9361229538917542
+258,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9473806023597717
+50,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8830220103263855
+905,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.6657628417015076
+89,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.890617311000824
+401,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.986935555934906
+527,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8797240853309631
+730,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8221635818481445
+149,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9345697164535522
+159,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9542780518531799
+338,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.6558771133422852
+179,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.794725775718689
+341,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9049665331840515
+86,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9623363614082336
+576,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9203235507011414
+40,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9888354539871216
+95,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9308562874794006
+528,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.980704128742218
+704,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9835368990898132
+148,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9362204670906067
+132,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7409880757331848
+602,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9493584632873535
+860,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.874013364315033
+408,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7856553196907043
+755,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8535186648368835
+485,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8583132028579712
+893,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8581975102424622
+16,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.6738919615745544
+198,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9945090413093567
+195,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9013562798500061
+984,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7372475266456604
+430,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.884024441242218
+659,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9838984608650208
+686,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.7459877729415894
+898,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9477009773254395
+183,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.619139552116394
+372,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.763236939907074
+182,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.987530529499054
+363,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9827411770820618
+27,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.793124258518219
+250,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.964645504951477
+14,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9579876065254211
+232,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9457244277000427
+11,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9872591495513916
+531,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9435256123542786
+836,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9635950326919556
+845,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8332430720329285
+454,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7601062655448914
+610,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9625884890556335
+887,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9436012506484985
+852,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9289785027503967
+471,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7864066362380981
+226,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9644548892974854
+668,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.781650960445404
+109,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9754053950309753
+587,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9446300864219666
+263,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9510141015052795
+656,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9391782879829407
+520,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.934088408946991
+897,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.7887120246887207
+751,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9197632670402527
+450,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8856861591339111
+741,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9874860644340515
+23,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9373852014541626
+35,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8506143689155579
+365,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8713929057121277
+917,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8985803127288818
+539,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8977645039558411
+211,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8924188017845154
+554,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9430616497993469
+290,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9855605959892273
+855,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9060163497924805
+227,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9783409833908081
+300,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9204031825065613
+820,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.5696451663970947
+915,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8920342922210693
+187,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9801146388053894
+603,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9386166930198669
+21,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.831929087638855
+261,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9105492830276489
+768,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.969550609588623
+480,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9408922791481018
+658,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9225236773490906
+294,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9354199767112732
+235,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8494027853012085
+265,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8660812973976135
+509,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.5968031883239746
+691,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9136247634887695
+158,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9583296179771423
+586,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8973799347877502
+797,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.52978515625
+140,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9266001582145691
+601,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9723255038261414
+873,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9590833783149719
+802,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.8754801154136658
+26,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.8243455290794373
+532,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.5798034071922302
+76,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.5343971848487854
+47,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.5551759004592896
+2,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9803085923194885
+889,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9898255467414856
+568,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.952446699142456
+310,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9646932482719421
+251,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9884974360466003
+660,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.9648939967155457
+432,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9445806741714478
+348,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.825615406036377
+49,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9660037755966187
+582,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.87242591381073
+245,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9143602252006531
+826,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9539234042167664
+949,opus_mt_tc_big,OPUS-MT tc-big,Turkish->English,0.927356481552124
+772,opus_mt_tc_big,OPUS-MT tc-big,English->Turkish,0.9508559107780457
+434,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9497695565223694
+482,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9025596380233765
+238,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9757803082466125
+953,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9783744215965271
+54,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7677536606788635
+8,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8973817229270935
+421,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8180317282676697
+494,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9875445365905762
+648,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9727426171302795
+801,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9336289167404175
+874,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9812936186790466
+69,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9458128809928894
+115,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9646625518798828
+397,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9212396740913391
+206,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8055307269096375
+697,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.939136803150177
+967,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9350615739822388
+506,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.980094850063324
+120,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.6400578618049622
+112,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9382447004318237
+91,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8997000455856323
+82,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8126248717308044
+424,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.935363233089447
+564,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9792532324790955
+609,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.5535203814506531
+534,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9050534963607788
+754,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.5991195440292358
+118,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8662402033805847
+747,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8895227313041687
+437,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9346743822097778
+255,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9736060500144958
+334,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.974639356136322
+912,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7926596999168396
+941,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9512854218482971
+457,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9052475690841675
+946,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9757403135299683
+180,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8966829180717468
+62,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.5173727869987488
+975,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.941953718662262
+74,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8598900437355042
+202,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9484233856201172
+19,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9710063934326172
+804,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7525398135185242
+209,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9312449097633362
+791,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.5825400948524475
+838,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9119458794593811
+107,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8009308576583862
+147,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8555252552032471
+39,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9189378023147583
+104,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9043155312538147
+931,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9843428730964661
+162,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9652853608131409
+875,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8787395358085632
+948,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9186198115348816
+445,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9308409094810486
+594,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8441800475120544
+661,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9678898453712463
+695,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8218694925308228
+961,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9764392971992493
+555,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9537420868873596
+895,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.960261881351471
+585,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7300435900688171
+254,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9435782432556152
+212,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7763789296150208
+900,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8533284664154053
+981,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9434724450111389
+501,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9092654585838318
+676,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.6700448989868164
+22,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8627640604972839
+70,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.5120677947998047
+217,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9418213963508606
+216,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7969983816146851
+321,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7642605900764465
+189,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8219753503799438
+744,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7236931920051575
+561,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8763725161552429
+1001,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8941625952720642
+590,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8696352243423462
+598,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8782256841659546
+486,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9818000197410583
+122,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8981127142906189
+870,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8646203279495239
+0,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8545357584953308
+172,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9713928699493408
+968,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.983995795249939
+1,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9173546433448792
+126,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9063838124275208
+98,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9022300839424133
+821,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9612827897071838
+888,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.974886953830719
+367,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7533237338066101
+53,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9422480463981628
+234,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.814506471157074
+780,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9756353497505188
+988,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7649266123771667
+57,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8868988156318665
+81,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8682884573936462
+654,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8596705794334412
+516,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.842099130153656
+970,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9064386487007141
+374,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8538638949394226
+63,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8709338307380676
+215,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8824892640113831
+194,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.949550211429596
+376,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8244866728782654
+347,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9186044335365295
+922,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8670802712440491
+819,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9486087560653687
+319,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.6277879476547241
+370,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9902900457382202
+552,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8126426339149475
+205,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9363862872123718
+718,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9299414157867432
+581,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8170803785324097
+101,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8935229778289795
+779,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8984158039093018
+136,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7544384598731995
+123,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8449922204017639
+7,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8492631316184998
+314,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9593388438224792
+787,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7815789580345154
+629,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9605576395988464
+468,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9272732138633728
+177,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9006316065788269
+323,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9855223298072815
+20,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9248386025428772
+902,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9129374623298645
+80,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9215897917747498
+831,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7721388936042786
+186,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9137706756591797
+786,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7400844693183899
+851,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8207542896270752
+882,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9341543316841125
+278,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8514289855957031
+924,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8860225081443787
+141,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7615070343017578
+622,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9602376818656921
+627,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9004214406013489
+318,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9124689698219299
+4,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.984333336353302
+442,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8545586466789246
+297,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8568362593650818
+992,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9679635167121887
+857,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.881449282169342
+193,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8866440057754517
+51,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8879097104072571
+41,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.6088846921920776
+843,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9871894717216492
+523,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8422828316688538
+526,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8582043051719666
+218,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7428894639015198
+399,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9402939081192017
+575,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9468176364898682
+191,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9236155152320862
+805,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9898163080215454
+776,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9119625687599182
+479,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9281499981880188
+752,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.888942539691925
+950,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8928019404411316
+207,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8490448594093323
+745,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7377349734306335
+926,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.759233295917511
+698,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9356107115745544
+94,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9882017374038696
+675,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.963082492351532
+618,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.944203794002533
+867,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7653720378875732
+518,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8968192338943481
+270,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9290465116500854
+521,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8766754269599915
+570,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7952143549919128
+411,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8900659680366516
+75,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.847027599811554
+84,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9259026050567627
+473,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9846031665802002
+463,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.987227201461792
+252,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9423107504844666
+853,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8791355490684509
+286,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8772013783454895
+117,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8385016322135925
+614,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8463529944419861
+854,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.5980388522148132
+460,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8372759222984314
+233,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9092021584510803
+653,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8137952089309692
+761,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7714207768440247
+605,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8487697839736938
+938,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9145182371139526
+258,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.770709216594696
+50,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8830220103263855
+905,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7687351107597351
+89,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.890617311000824
+401,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8681161999702454
+527,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7574920058250427
+730,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8221638202667236
+149,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.934569776058197
+159,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9353333711624146
+338,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8192594647407532
+179,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7177780270576477
+341,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8001089096069336
+86,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9376680254936218
+576,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8924906253814697
+40,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9888354539871216
+95,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8950992226600647
+528,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.980704128742218
+704,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9835368990898132
+148,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9561004638671875
+132,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8547870516777039
+602,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9586484432220459
+860,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9257739186286926
+408,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.674497663974762
+755,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8673954606056213
+485,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.3781474828720093
+893,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.865197479724884
+16,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.4449225962162018
+198,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9945090413093567
+195,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8539418578147888
+984,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8532590866088867
+430,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.721143901348114
+659,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9560887813568115
+686,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.6513343453407288
+898,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9477009177207947
+183,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9192758202552795
+372,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9257258772850037
+182,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.987530529499054
+363,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9827411770820618
+27,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8937137722969055
+250,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8954600691795349
+14,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9530971646308899
+232,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9457244277000427
+11,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9872591495513916
+531,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9435256123542786
+836,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9635950326919556
+845,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7945811748504639
+454,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7601062655448914
+610,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9625884890556335
+887,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9880030751228333
+852,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9697237610816956
+471,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8497602939605713
+226,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9799807667732239
+668,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7998209595680237
+109,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9754053950309753
+587,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9446300864219666
+263,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9557541012763977
+656,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9010962843894958
+520,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8342679738998413
+897,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8070897459983826
+751,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9048148393630981
+450,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8856861591339111
+741,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9874860644340515
+23,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9255610108375549
+35,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7914741039276123
+365,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8768350481987
+917,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9740206599235535
+539,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8977645039558411
+211,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7885295152664185
+554,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8989461064338684
+290,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9438517093658447
+855,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9060165286064148
+227,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9759108424186707
+300,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9141429662704468
+820,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.609792172908783
+915,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.921737015247345
+187,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8654369115829468
+603,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.886414110660553
+21,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9510087370872498
+261,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9177490472793579
+768,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9698091149330139
+480,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9408922791481018
+658,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7874006628990173
+294,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9794597625732422
+235,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7606021165847778
+265,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.7472324371337891
+509,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.580566942691803
+691,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.918464183807373
+158,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9583296179771423
+586,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9276854991912842
+797,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.5229523181915283
+140,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9104324579238892
+601,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8993250727653503
+873,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8108211159706116
+802,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9536841511726379
+26,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8205979466438293
+532,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.5703005790710449
+76,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.6072477698326111
+47,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.8138092756271362
+2,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9803085923194885
+889,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8705183863639832
+568,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9782839417457581
+310,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7469075322151184
+251,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9884974360466003
+660,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.9648939967155457
+432,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.7557660937309265
+348,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.825615406036377
+49,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.8296381235122681
+582,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.87242591381073
+245,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9152409434318542
+826,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.87530916929245
+949,nllb_200_distilled_600m,NLLB-200 distilled 600M,Turkish->English,0.917361319065094
+772,nllb_200_distilled_600m,NLLB-200 distilled 600M,English->Turkish,0.9508559107780457
+434,m2m100_418m,M2M100 418M,Turkish->English,0.87315434217453
+482,m2m100_418m,M2M100 418M,Turkish->English,0.5821265578269958
+238,m2m100_418m,M2M100 418M,Turkish->English,0.9757803082466125
+953,m2m100_418m,M2M100 418M,English->Turkish,0.9906942248344421
+54,m2m100_418m,M2M100 418M,Turkish->English,0.626086950302124
+8,m2m100_418m,M2M100 418M,Turkish->English,0.8793918490409851
+421,m2m100_418m,M2M100 418M,Turkish->English,0.9004443287849426
+494,m2m100_418m,M2M100 418M,English->Turkish,0.969508171081543
+648,m2m100_418m,M2M100 418M,English->Turkish,0.9314317107200623
+801,m2m100_418m,M2M100 418M,Turkish->English,0.9360297322273254
+874,m2m100_418m,M2M100 418M,Turkish->English,0.976571798324585
+69,m2m100_418m,M2M100 418M,English->Turkish,0.9519074559211731
+115,m2m100_418m,M2M100 418M,Turkish->English,0.9756655097007751
+397,m2m100_418m,M2M100 418M,English->Turkish,0.8869480490684509
+206,m2m100_418m,M2M100 418M,Turkish->English,0.7334595322608948
+697,m2m100_418m,M2M100 418M,Turkish->English,0.9098297953605652
+967,m2m100_418m,M2M100 418M,Turkish->English,0.8633665442466736
+506,m2m100_418m,M2M100 418M,Turkish->English,0.980094850063324
+120,m2m100_418m,M2M100 418M,English->Turkish,0.8897449374198914
+112,m2m100_418m,M2M100 418M,Turkish->English,0.8647850751876831
+91,m2m100_418m,M2M100 418M,English->Turkish,0.8852866291999817
+82,m2m100_418m,M2M100 418M,English->Turkish,0.9001082181930542
+424,m2m100_418m,M2M100 418M,Turkish->English,0.959923505783081
+564,m2m100_418m,M2M100 418M,Turkish->English,0.8929625749588013
+609,m2m100_418m,M2M100 418M,English->Turkish,0.7282978296279907
+534,m2m100_418m,M2M100 418M,English->Turkish,0.719214916229248
+754,m2m100_418m,M2M100 418M,Turkish->English,0.7892455458641052
+118,m2m100_418m,M2M100 418M,Turkish->English,0.822338879108429
+747,m2m100_418m,M2M100 418M,Turkish->English,0.7848357558250427
+437,m2m100_418m,M2M100 418M,Turkish->English,0.9322379231452942
+255,m2m100_418m,M2M100 418M,English->Turkish,0.8248054385185242
+334,m2m100_418m,M2M100 418M,Turkish->English,0.974639356136322
+912,m2m100_418m,M2M100 418M,English->Turkish,0.8677096962928772
+941,m2m100_418m,M2M100 418M,English->Turkish,0.8295445442199707
+457,m2m100_418m,M2M100 418M,Turkish->English,0.8756452202796936
+946,m2m100_418m,M2M100 418M,English->Turkish,0.9912493228912354
+180,m2m100_418m,M2M100 418M,English->Turkish,0.5624566674232483
+62,m2m100_418m,M2M100 418M,English->Turkish,0.8485248684883118
+975,m2m100_418m,M2M100 418M,English->Turkish,0.9524384140968323
+74,m2m100_418m,M2M100 418M,English->Turkish,0.8633841276168823
+202,m2m100_418m,M2M100 418M,English->Turkish,0.9897118806838989
+19,m2m100_418m,M2M100 418M,English->Turkish,0.9234623908996582
+804,m2m100_418m,M2M100 418M,Turkish->English,0.7161508798599243
+209,m2m100_418m,M2M100 418M,English->Turkish,0.7789642810821533
+791,m2m100_418m,M2M100 418M,English->Turkish,0.6474173665046692
+838,m2m100_418m,M2M100 418M,English->Turkish,0.887336790561676
+107,m2m100_418m,M2M100 418M,Turkish->English,0.8908005356788635
+147,m2m100_418m,M2M100 418M,Turkish->English,0.6514678597450256
+39,m2m100_418m,M2M100 418M,English->Turkish,0.9278650879859924
+104,m2m100_418m,M2M100 418M,Turkish->English,0.9542080760002136
+931,m2m100_418m,M2M100 418M,Turkish->English,0.9168088436126709
+162,m2m100_418m,M2M100 418M,English->Turkish,0.9903751015663147
+875,m2m100_418m,M2M100 418M,Turkish->English,0.9104984998703003
+948,m2m100_418m,M2M100 418M,English->Turkish,0.7816410064697266
+445,m2m100_418m,M2M100 418M,Turkish->English,0.8214771747589111
+594,m2m100_418m,M2M100 418M,Turkish->English,0.8829281330108643
+661,m2m100_418m,M2M100 418M,English->Turkish,0.9345579743385315
+695,m2m100_418m,M2M100 418M,English->Turkish,0.9139978885650635
+961,m2m100_418m,M2M100 418M,Turkish->English,0.8929811716079712
+555,m2m100_418m,M2M100 418M,English->Turkish,0.7303340435028076
+895,m2m100_418m,M2M100 418M,Turkish->English,0.9873165488243103
+585,m2m100_418m,M2M100 418M,English->Turkish,0.7119715809822083
+254,m2m100_418m,M2M100 418M,English->Turkish,0.9248978495597839
+212,m2m100_418m,M2M100 418M,Turkish->English,0.5725117921829224
+900,m2m100_418m,M2M100 418M,Turkish->English,0.8286831974983215
+981,m2m100_418m,M2M100 418M,English->Turkish,0.8743788599967957
+501,m2m100_418m,M2M100 418M,English->Turkish,0.6700323224067688
+676,m2m100_418m,M2M100 418M,Turkish->English,0.8405687212944031
+22,m2m100_418m,M2M100 418M,English->Turkish,0.7765398025512695
+70,m2m100_418m,M2M100 418M,Turkish->English,0.5822334885597229
+217,m2m100_418m,M2M100 418M,English->Turkish,0.8925506472587585
+216,m2m100_418m,M2M100 418M,English->Turkish,0.689674973487854
+321,m2m100_418m,M2M100 418M,Turkish->English,0.561588704586029
+189,m2m100_418m,M2M100 418M,Turkish->English,0.8361006379127502
+744,m2m100_418m,M2M100 418M,English->Turkish,0.7648377418518066
+561,m2m100_418m,M2M100 418M,Turkish->English,0.8928075432777405
+1001,m2m100_418m,M2M100 418M,English->Turkish,0.8841840624809265
+590,m2m100_418m,M2M100 418M,English->Turkish,0.45819613337516785
+598,m2m100_418m,M2M100 418M,English->Turkish,0.8431118130683899
+486,m2m100_418m,M2M100 418M,Turkish->English,0.9818000197410583
+122,m2m100_418m,M2M100 418M,Turkish->English,0.8801509737968445
+870,m2m100_418m,M2M100 418M,Turkish->English,0.8890566229820251
+0,m2m100_418m,M2M100 418M,English->Turkish,0.9174810647964478
+172,m2m100_418m,M2M100 418M,English->Turkish,0.9768025279045105
+968,m2m100_418m,M2M100 418M,English->Turkish,0.983995795249939
+1,m2m100_418m,M2M100 418M,English->Turkish,0.9203127026557922
+126,m2m100_418m,M2M100 418M,English->Turkish,0.7084023356437683
+98,m2m100_418m,M2M100 418M,English->Turkish,0.8744683861732483
+821,m2m100_418m,M2M100 418M,English->Turkish,0.9024749398231506
+888,m2m100_418m,M2M100 418M,English->Turkish,0.974886953830719
+367,m2m100_418m,M2M100 418M,Turkish->English,0.7354853749275208
+53,m2m100_418m,M2M100 418M,English->Turkish,0.9320710301399231
+234,m2m100_418m,M2M100 418M,English->Turkish,0.8183265328407288
+780,m2m100_418m,M2M100 418M,Turkish->English,0.9376501441001892
+988,m2m100_418m,M2M100 418M,English->Turkish,0.7059468030929565
+57,m2m100_418m,M2M100 418M,English->Turkish,0.8213914036750793
+81,m2m100_418m,M2M100 418M,Turkish->English,0.760819137096405
+654,m2m100_418m,M2M100 418M,English->Turkish,0.5924533009529114
+516,m2m100_418m,M2M100 418M,Turkish->English,0.7104867696762085
+970,m2m100_418m,M2M100 418M,English->Turkish,0.8988716006278992
+374,m2m100_418m,M2M100 418M,Turkish->English,0.7804200053215027
+63,m2m100_418m,M2M100 418M,English->Turkish,0.834162712097168
+215,m2m100_418m,M2M100 418M,English->Turkish,0.8981893658638
+194,m2m100_418m,M2M100 418M,Turkish->English,0.9523232579231262
+376,m2m100_418m,M2M100 418M,Turkish->English,0.8489964008331299
+347,m2m100_418m,M2M100 418M,Turkish->English,0.8997390270233154
+922,m2m100_418m,M2M100 418M,English->Turkish,0.5399698615074158
+819,m2m100_418m,M2M100 418M,English->Turkish,0.7511524558067322
+319,m2m100_418m,M2M100 418M,Turkish->English,0.6060887575149536
+370,m2m100_418m,M2M100 418M,English->Turkish,0.9562570452690125
+552,m2m100_418m,M2M100 418M,English->Turkish,0.8801365494728088
+205,m2m100_418m,M2M100 418M,Turkish->English,0.940620481967926
+718,m2m100_418m,M2M100 418M,English->Turkish,0.850663959980011
+581,m2m100_418m,M2M100 418M,Turkish->English,0.9024975895881653
+101,m2m100_418m,M2M100 418M,Turkish->English,0.916221022605896
+779,m2m100_418m,M2M100 418M,English->Turkish,0.9169989228248596
+136,m2m100_418m,M2M100 418M,English->Turkish,0.7993874549865723
+123,m2m100_418m,M2M100 418M,Turkish->English,0.8282694220542908
+7,m2m100_418m,M2M100 418M,Turkish->English,0.8941312432289124
+314,m2m100_418m,M2M100 418M,Turkish->English,0.9423226118087769
+787,m2m100_418m,M2M100 418M,English->Turkish,0.7815788388252258
+629,m2m100_418m,M2M100 418M,Turkish->English,0.9262505769729614
+468,m2m100_418m,M2M100 418M,Turkish->English,0.914832353591919
+177,m2m100_418m,M2M100 418M,Turkish->English,0.984626829624176
+323,m2m100_418m,M2M100 418M,English->Turkish,0.7674368023872375
+20,m2m100_418m,M2M100 418M,Turkish->English,0.9141082167625427
+902,m2m100_418m,M2M100 418M,English->Turkish,0.7730587124824524
+80,m2m100_418m,M2M100 418M,English->Turkish,0.7633029222488403
+831,m2m100_418m,M2M100 418M,Turkish->English,0.797208845615387
+186,m2m100_418m,M2M100 418M,Turkish->English,0.7012364268302917
+786,m2m100_418m,M2M100 418M,English->Turkish,0.9388007521629333
+851,m2m100_418m,M2M100 418M,English->Turkish,0.8081493377685547
+882,m2m100_418m,M2M100 418M,Turkish->English,0.9369274973869324
+278,m2m100_418m,M2M100 418M,English->Turkish,0.8397744297981262
+924,m2m100_418m,M2M100 418M,Turkish->English,0.6986216902732849
+141,m2m100_418m,M2M100 418M,Turkish->English,0.7474358081817627
+622,m2m100_418m,M2M100 418M,Turkish->English,0.966788113117218
+627,m2m100_418m,M2M100 418M,Turkish->English,0.6348642110824585
+318,m2m100_418m,M2M100 418M,Turkish->English,0.9348577857017517
+4,m2m100_418m,M2M100 418M,English->Turkish,0.9668620228767395
+442,m2m100_418m,M2M100 418M,English->Turkish,0.8380199074745178
+297,m2m100_418m,M2M100 418M,English->Turkish,0.8153191208839417
+992,m2m100_418m,M2M100 418M,Turkish->English,0.8529086709022522
+857,m2m100_418m,M2M100 418M,English->Turkish,0.7270963788032532
+193,m2m100_418m,M2M100 418M,Turkish->English,0.8677388429641724
+51,m2m100_418m,M2M100 418M,Turkish->English,0.7991265058517456
+41,m2m100_418m,M2M100 418M,English->Turkish,0.610689103603363
+843,m2m100_418m,M2M100 418M,English->Turkish,0.7916227579116821
+523,m2m100_418m,M2M100 418M,English->Turkish,0.9707964658737183
+526,m2m100_418m,M2M100 418M,English->Turkish,0.7974680066108704
+218,m2m100_418m,M2M100 418M,Turkish->English,0.666019856929779
+399,m2m100_418m,M2M100 418M,English->Turkish,0.940294086933136
+575,m2m100_418m,M2M100 418M,Turkish->English,0.9157915115356445
+191,m2m100_418m,M2M100 418M,Turkish->English,0.9123944044113159
+805,m2m100_418m,M2M100 418M,Turkish->English,0.9898162484169006
+776,m2m100_418m,M2M100 418M,Turkish->English,0.8832902908325195
+479,m2m100_418m,M2M100 418M,Turkish->English,0.9281499981880188
+752,m2m100_418m,M2M100 418M,English->Turkish,0.9189268946647644
+950,m2m100_418m,M2M100 418M,Turkish->English,0.5126326084136963
+207,m2m100_418m,M2M100 418M,English->Turkish,0.7050595283508301
+745,m2m100_418m,M2M100 418M,Turkish->English,0.9856531023979187
+926,m2m100_418m,M2M100 418M,Turkish->English,0.9134790301322937
+698,m2m100_418m,M2M100 418M,English->Turkish,0.8386555314064026
+94,m2m100_418m,M2M100 418M,English->Turkish,0.9618011116981506
+675,m2m100_418m,M2M100 418M,English->Turkish,0.935958206653595
+618,m2m100_418m,M2M100 418M,English->Turkish,0.8163357377052307
+867,m2m100_418m,M2M100 418M,Turkish->English,0.7836260795593262
+518,m2m100_418m,M2M100 418M,Turkish->English,0.8632906079292297
+270,m2m100_418m,M2M100 418M,Turkish->English,0.886320173740387
+521,m2m100_418m,M2M100 418M,English->Turkish,0.5879910588264465
+570,m2m100_418m,M2M100 418M,English->Turkish,0.6918867230415344
+411,m2m100_418m,M2M100 418M,Turkish->English,0.9088620543479919
+75,m2m100_418m,M2M100 418M,Turkish->English,0.7581776976585388
+84,m2m100_418m,M2M100 418M,English->Turkish,0.9428287744522095
+473,m2m100_418m,M2M100 418M,English->Turkish,0.9355675578117371
+463,m2m100_418m,M2M100 418M,Turkish->English,0.9548150300979614
+252,m2m100_418m,M2M100 418M,English->Turkish,0.963884174823761
+853,m2m100_418m,M2M100 418M,English->Turkish,0.81839519739151
+286,m2m100_418m,M2M100 418M,Turkish->English,0.9144116640090942
+117,m2m100_418m,M2M100 418M,English->Turkish,0.9097577929496765
+614,m2m100_418m,M2M100 418M,Turkish->English,0.9607142806053162
+854,m2m100_418m,M2M100 418M,English->Turkish,0.525733470916748
+460,m2m100_418m,M2M100 418M,Turkish->English,0.8578445315361023
+233,m2m100_418m,M2M100 418M,Turkish->English,0.8901604413986206
+653,m2m100_418m,M2M100 418M,English->Turkish,0.8697220683097839
+761,m2m100_418m,M2M100 418M,Turkish->English,0.8564466834068298
+605,m2m100_418m,M2M100 418M,Turkish->English,0.8684157729148865
+938,m2m100_418m,M2M100 418M,Turkish->English,0.9361229538917542
+258,m2m100_418m,M2M100 418M,English->Turkish,0.9443089365959167
+50,m2m100_418m,M2M100 418M,English->Turkish,0.8830220103263855
+905,m2m100_418m,M2M100 418M,English->Turkish,0.816005289554596
+89,m2m100_418m,M2M100 418M,Turkish->English,0.7389336228370667
+401,m2m100_418m,M2M100 418M,Turkish->English,0.986935555934906
+527,m2m100_418m,M2M100 418M,Turkish->English,0.9162712097167969
+730,m2m100_418m,M2M100 418M,Turkish->English,0.6068663597106934
+149,m2m100_418m,M2M100 418M,English->Turkish,0.9041455388069153
+159,m2m100_418m,M2M100 418M,Turkish->English,0.9340741038322449
+338,m2m100_418m,M2M100 418M,Turkish->English,0.7522661685943604
+179,m2m100_418m,M2M100 418M,English->Turkish,0.6906242966651917
+341,m2m100_418m,M2M100 418M,Turkish->English,0.8438799977302551
+86,m2m100_418m,M2M100 418M,English->Turkish,0.9623363614082336
+576,m2m100_418m,M2M100 418M,English->Turkish,0.7178730368614197
+40,m2m100_418m,M2M100 418M,English->Turkish,0.9888354539871216
+95,m2m100_418m,M2M100 418M,Turkish->English,0.900941014289856
+528,m2m100_418m,M2M100 418M,Turkish->English,0.9384762644767761
+704,m2m100_418m,M2M100 418M,Turkish->English,0.8415332436561584
+148,m2m100_418m,M2M100 418M,Turkish->English,0.8240856528282166
+132,m2m100_418m,M2M100 418M,English->Turkish,0.7338642477989197
+602,m2m100_418m,M2M100 418M,English->Turkish,0.9446700215339661
+860,m2m100_418m,M2M100 418M,English->Turkish,0.9243589043617249
+408,m2m100_418m,M2M100 418M,English->Turkish,0.8748505711555481
+755,m2m100_418m,M2M100 418M,Turkish->English,0.8611024022102356
+485,m2m100_418m,M2M100 418M,English->Turkish,0.6372560262680054
+893,m2m100_418m,M2M100 418M,English->Turkish,0.8837396502494812
+16,m2m100_418m,M2M100 418M,Turkish->English,0.5867496132850647
+198,m2m100_418m,M2M100 418M,English->Turkish,0.9684566855430603
+195,m2m100_418m,M2M100 418M,English->Turkish,0.7801302075386047
+984,m2m100_418m,M2M100 418M,Turkish->English,0.8852342963218689
+430,m2m100_418m,M2M100 418M,Turkish->English,0.8625569939613342
+659,m2m100_418m,M2M100 418M,English->Turkish,0.9838984608650208
+686,m2m100_418m,M2M100 418M,English->Turkish,0.6316543221473694
+898,m2m100_418m,M2M100 418M,Turkish->English,0.9477009773254395
+183,m2m100_418m,M2M100 418M,Turkish->English,0.938956081867218
+372,m2m100_418m,M2M100 418M,Turkish->English,0.8196526765823364
+182,m2m100_418m,M2M100 418M,English->Turkish,0.9607674479484558
+363,m2m100_418m,M2M100 418M,Turkish->English,0.9645376801490784
+27,m2m100_418m,M2M100 418M,English->Turkish,0.9008677005767822
+250,m2m100_418m,M2M100 418M,English->Turkish,0.9489347338676453
+14,m2m100_418m,M2M100 418M,Turkish->English,0.9089065194129944
+232,m2m100_418m,M2M100 418M,Turkish->English,0.8721786141395569
+11,m2m100_418m,M2M100 418M,English->Turkish,0.8465288877487183
+531,m2m100_418m,M2M100 418M,Turkish->English,0.914096474647522
+836,m2m100_418m,M2M100 418M,Turkish->English,0.9523642659187317
+845,m2m100_418m,M2M100 418M,Turkish->English,0.8561854958534241
+454,m2m100_418m,M2M100 418M,Turkish->English,0.822048544883728
+610,m2m100_418m,M2M100 418M,English->Turkish,0.917485773563385
+887,m2m100_418m,M2M100 418M,English->Turkish,0.9436012506484985
+852,m2m100_418m,M2M100 418M,English->Turkish,0.9024969935417175
+471,m2m100_418m,M2M100 418M,Turkish->English,0.639187753200531
+226,m2m100_418m,M2M100 418M,Turkish->English,0.880164384841919
+668,m2m100_418m,M2M100 418M,Turkish->English,0.6740283966064453
+109,m2m100_418m,M2M100 418M,Turkish->English,0.78667813539505
+587,m2m100_418m,M2M100 418M,Turkish->English,0.9270733594894409
+263,m2m100_418m,M2M100 418M,English->Turkish,0.9608970284461975
+656,m2m100_418m,M2M100 418M,Turkish->English,0.977630078792572
+520,m2m100_418m,M2M100 418M,English->Turkish,0.9098372459411621
+897,m2m100_418m,M2M100 418M,Turkish->English,0.7633708119392395
+751,m2m100_418m,M2M100 418M,Turkish->English,0.8956275582313538
+450,m2m100_418m,M2M100 418M,Turkish->English,0.5693421959877014
+741,m2m100_418m,M2M100 418M,English->Turkish,0.9874861240386963
+23,m2m100_418m,M2M100 418M,English->Turkish,0.9493962526321411
+35,m2m100_418m,M2M100 418M,English->Turkish,0.849449098110199
+365,m2m100_418m,M2M100 418M,English->Turkish,0.8992735147476196
+917,m2m100_418m,M2M100 418M,English->Turkish,0.8804581761360168
+539,m2m100_418m,M2M100 418M,English->Turkish,0.8081962466239929
+211,m2m100_418m,M2M100 418M,English->Turkish,0.879213273525238
+554,m2m100_418m,M2M100 418M,English->Turkish,0.8989468216896057
+290,m2m100_418m,M2M100 418M,English->Turkish,0.6063234806060791
+855,m2m100_418m,M2M100 418M,Turkish->English,0.872392475605011
+227,m2m100_418m,M2M100 418M,English->Turkish,0.9556214809417725
+300,m2m100_418m,M2M100 418M,English->Turkish,0.894586980342865
+820,m2m100_418m,M2M100 418M,English->Turkish,0.6097920536994934
+915,m2m100_418m,M2M100 418M,Turkish->English,0.9329174757003784
+187,m2m100_418m,M2M100 418M,English->Turkish,0.6967995762825012
+603,m2m100_418m,M2M100 418M,English->Turkish,0.9434807896614075
+21,m2m100_418m,M2M100 418M,Turkish->English,0.9078354835510254
+261,m2m100_418m,M2M100 418M,Turkish->English,0.9177491068840027
+768,m2m100_418m,M2M100 418M,English->Turkish,0.804790198802948
+480,m2m100_418m,M2M100 418M,Turkish->English,0.9195981621742249
+658,m2m100_418m,M2M100 418M,Turkish->English,0.6782225966453552
+294,m2m100_418m,M2M100 418M,English->Turkish,0.9794597625732422
+235,m2m100_418m,M2M100 418M,English->Turkish,0.5034361481666565
+265,m2m100_418m,M2M100 418M,Turkish->English,0.8962751626968384
+509,m2m100_418m,M2M100 418M,Turkish->English,0.5576069355010986
+691,m2m100_418m,M2M100 418M,Turkish->English,0.8431346416473389
+158,m2m100_418m,M2M100 418M,Turkish->English,0.8347912430763245
+586,m2m100_418m,M2M100 418M,Turkish->English,0.5442149639129639
+797,m2m100_418m,M2M100 418M,English->Turkish,0.8009485006332397
+140,m2m100_418m,M2M100 418M,English->Turkish,0.7705318331718445
+601,m2m100_418m,M2M100 418M,Turkish->English,0.7527575492858887
+873,m2m100_418m,M2M100 418M,Turkish->English,0.5231120586395264
+802,m2m100_418m,M2M100 418M,English->Turkish,0.9351478219032288
+26,m2m100_418m,M2M100 418M,Turkish->English,0.8202152848243713
+532,m2m100_418m,M2M100 418M,Turkish->English,0.5829444527626038
+76,m2m100_418m,M2M100 418M,Turkish->English,0.38530707359313965
+47,m2m100_418m,M2M100 418M,Turkish->English,0.6361752152442932
+2,m2m100_418m,M2M100 418M,Turkish->English,0.9803085923194885
+889,m2m100_418m,M2M100 418M,English->Turkish,0.713646411895752
+568,m2m100_418m,M2M100 418M,Turkish->English,0.9616047739982605
+310,m2m100_418m,M2M100 418M,English->Turkish,0.7037684321403503
+251,m2m100_418m,M2M100 418M,English->Turkish,0.9796648621559143
+660,m2m100_418m,M2M100 418M,Turkish->English,0.7826798558235168
+432,m2m100_418m,M2M100 418M,English->Turkish,0.8327066898345947
+348,m2m100_418m,M2M100 418M,Turkish->English,0.8713796734809875
+49,m2m100_418m,M2M100 418M,English->Turkish,0.7120888829231262
+582,m2m100_418m,M2M100 418M,Turkish->English,0.8760555386543274
+245,m2m100_418m,M2M100 418M,English->Turkish,0.8940958380699158
+826,m2m100_418m,M2M100 418M,English->Turkish,0.9300492405891418
+949,m2m100_418m,M2M100 418M,Turkish->English,0.9272764325141907
+772,m2m100_418m,M2M100 418M,English->Turkish,0.9508559107780457
+434,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9281179904937744
+482,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7320171594619751
+238,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9668998122215271
+953,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9730966687202454
+54,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6836106777191162
+8,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9317011833190918
+421,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8234236240386963
+494,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8474390506744385
+648,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8433433175086975
+801,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9360297322273254
+874,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9812936186790466
+69,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8451886177062988
+115,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9847775101661682
+397,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8078776001930237
+206,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7102561593055725
+697,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8425273299217224
+967,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6017714738845825
+506,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.980094850063324
+120,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7068467140197754
+112,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.606749951839447
+91,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8663230538368225
+82,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8594139814376831
+424,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.959923505783081
+564,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5700507760047913
+609,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.43615612387657166
+534,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6206390857696533
+754,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5981318354606628
+118,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5357251167297363
+747,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8678058981895447
+437,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.851825475692749
+255,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9598939418792725
+334,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.974639356136322
+912,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8008609414100647
+941,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6897003054618835
+457,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9025480151176453
+946,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9686592221260071
+180,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7465780973434448
+62,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9105948209762573
+975,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9170233011245728
+74,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6378137469291687
+202,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9709823727607727
+19,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9369008541107178
+804,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6087354421615601
+209,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9386245608329773
+791,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5866718888282776
+838,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9087215065956116
+107,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8514915108680725
+147,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6357707381248474
+39,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6132733821868896
+104,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9122570753097534
+931,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9843428730964661
+162,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7199892401695251
+875,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.938075602054596
+948,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8884754180908203
+445,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8652665019035339
+594,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8414801955223083
+661,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9350727796554565
+695,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7802215814590454
+961,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5895035862922668
+555,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7419949173927307
+895,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9486974477767944
+585,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.768951952457428
+254,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.49073925614356995
+212,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.49344685673713684
+900,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8097243905067444
+981,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6116530299186707
+501,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6244435906410217
+676,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.797089159488678
+22,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7647144794464111
+70,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6182479858398438
+217,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8525026440620422
+216,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9163358211517334
+321,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5710572600364685
+189,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8449575304985046
+744,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8584232926368713
+561,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9006817936897278
+1001,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6958492398262024
+590,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6161902546882629
+598,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8756135106086731
+486,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9185128808021545
+122,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8513100743293762
+870,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.49252215027809143
+0,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8465428948402405
+172,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.801888108253479
+968,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8798173069953918
+1,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7893912196159363
+126,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.719601571559906
+98,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8846789002418518
+821,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9327852129936218
+888,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.974886953830719
+367,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6316969990730286
+53,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9229207038879395
+234,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6036691665649414
+780,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9191442131996155
+988,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6650003790855408
+57,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6536056399345398
+81,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8396796584129333
+654,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6419273614883423
+516,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7424412369728088
+970,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8170211911201477
+374,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7931485772132874
+63,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9036552309989929
+215,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8743472099304199
+194,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9374146461486816
+376,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8538872599601746
+347,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8699906468391418
+922,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5642194151878357
+819,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8023430705070496
+319,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.4500218629837036
+370,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9288184642791748
+552,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5563400983810425
+205,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9367800354957581
+718,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9135651588439941
+581,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9201787114143372
+101,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8064601421356201
+779,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8990091681480408
+136,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5712301135063171
+123,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7798724174499512
+7,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8414208292961121
+314,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9780238270759583
+787,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7815789580345154
+629,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9483538269996643
+468,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7642220258712769
+177,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.984626829624176
+323,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6131561398506165
+20,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9702102541923523
+902,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7874060869216919
+80,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7248553037643433
+831,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7058820128440857
+186,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8488292098045349
+786,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.744433581829071
+851,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7460930347442627
+882,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.848698616027832
+278,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7628990411758423
+924,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.823268711566925
+141,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6819623708724976
+622,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.966788113117218
+627,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7142696380615234
+318,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9368273615837097
+4,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9180903434753418
+442,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7922052145004272
+297,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7456087470054626
+992,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8743985891342163
+857,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6142726540565491
+193,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8842623829841614
+51,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9212636351585388
+41,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.606516420841217
+843,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8956429958343506
+523,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8479616045951843
+526,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7435540556907654
+218,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.49226805567741394
+399,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6286205649375916
+575,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8474727272987366
+191,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9148367643356323
+805,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8689221739768982
+776,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7362604737281799
+479,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8643888831138611
+752,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7712926864624023
+950,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5953372120857239
+207,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8162152171134949
+745,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9748005270957947
+926,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7770945429801941
+698,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8627222180366516
+94,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8759523034095764
+675,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9630823135375977
+618,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8695474863052368
+867,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7802637219429016
+518,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8515053391456604
+270,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9856356978416443
+521,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.49139007925987244
+570,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.757193922996521
+411,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8952495455741882
+75,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.45343017578125
+84,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8079907298088074
+473,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6770607829093933
+463,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.987227201461792
+252,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8998599052429199
+853,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6400298476219177
+286,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6646990180015564
+117,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7350038886070251
+614,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8525258898735046
+854,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6581549644470215
+460,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6076342463493347
+233,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9365292191505432
+653,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9611684679985046
+761,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8936423659324646
+605,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8815380930900574
+938,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.613889753818512
+258,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7369129061698914
+50,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7739468216896057
+905,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7696102261543274
+89,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.4041845500469208
+401,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.986935555934906
+527,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6269845366477966
+730,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.609090268611908
+149,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9272953271865845
+159,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5580149292945862
+338,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8192594647407532
+179,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.697192370891571
+341,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5883345603942871
+86,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7232992053031921
+576,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9170249104499817
+40,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.915500819683075
+95,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9065759778022766
+528,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9384762644767761
+704,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8654455542564392
+148,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8465648293495178
+132,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6545459032058716
+602,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9538422226905823
+860,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5674249529838562
+408,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.524964451789856
+755,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9090292453765869
+485,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.49940869212150574
+893,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6205129027366638
+16,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6583406925201416
+198,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9479354023933411
+195,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8282643556594849
+984,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8612514138221741
+430,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8630225658416748
+659,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.71774822473526
+686,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.543893039226532
+898,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9477009773254395
+183,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9152958989143372
+372,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6984022855758667
+182,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9108963012695312
+363,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7846816778182983
+27,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9438542127609253
+250,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9554607272148132
+14,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9579876065254211
+232,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7982879281044006
+11,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7947407960891724
+531,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8106428384780884
+836,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7555257678031921
+845,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8868880867958069
+454,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7601062655448914
+610,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6873270869255066
+887,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.745426595211029
+852,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8043928742408752
+471,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.714867115020752
+226,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8472760915756226
+668,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7878838777542114
+109,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7750206589698792
+587,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8477602005004883
+263,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9466097354888916
+656,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9391782879829407
+520,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5958418250083923
+897,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.671179473400116
+751,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9197632670402527
+450,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8836703896522522
+741,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9750908017158508
+23,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9377201199531555
+35,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.524997353553772
+365,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8992735147476196
+917,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5496505498886108
+539,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8256474137306213
+211,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.6931121945381165
+554,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9226393103599548
+290,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7328746914863586
+855,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9060163497924805
+227,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9414891600608826
+300,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7441390156745911
+820,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.48141172528266907
+915,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.921737015247345
+187,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.4285311698913574
+603,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.7659654021263123
+21,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9078354835510254
+261,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8832382559776306
+768,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5794587135314941
+480,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8751862645149231
+658,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7924056649208069
+294,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8661145567893982
+235,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5213258862495422
+265,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.866081178188324
+509,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5515878796577454
+691,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6456071138381958
+158,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.8787177205085754
+586,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6297456622123718
+797,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8385987281799316
+140,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8226237893104553
+601,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5863843560218811
+873,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.629805862903595
+802,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9449377655982971
+26,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6729385852813721
+532,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.6193553805351257
+76,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5033427476882935
+47,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.5878984332084656
+2,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9803085923194885
+889,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9320628046989441
+568,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.9616047739982605
+310,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8323817849159241
+251,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9754190444946289
+660,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.952499508857727
+432,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8327066898345947
+348,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7131892442703247
+49,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.5499036908149719
+582,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.7746951580047607
+245,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.8997051119804382
+826,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9535033702850342
+949,mbart50_mmt,mBART-50 many-to-many,Turkish->English,0.747233510017395
+772,mbart50_mmt,mBART-50 many-to-many,English->Turkish,0.9194133877754211

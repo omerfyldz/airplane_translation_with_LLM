@@ -1,0 +1,723 @@
+{
+  "greetings_and_basic_conversation::basic greetings::English->Turkish": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 301,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__basic_greetings__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__basic_greetings__english_to_turkish.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::basic greetings::Turkish->English": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__basic_greetings__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__basic_greetings__turkish_to_english.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::asking for help::English->Turkish": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__asking_for_help__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__asking_for_help__english_to_turkish.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::asking for help::Turkish->English": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__asking_for_help__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__asking_for_help__turkish_to_english.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::saying thank you and goodbye::English->Turkish": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 304,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__saying_thank_you_and_goodbye__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__saying_thank_you_and_goodbye__english_to_turkish.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::saying thank you and goodbye::Turkish->English": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 303,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__saying_thank_you_and_goodbye__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__saying_thank_you_and_goodbye__turkish_to_english.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::asking someone to repeat slowly::English->Turkish": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__asking_someone_to_repeat_slowly__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__asking_someone_to_repeat_slowly__english_to_turkish.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::asking someone to repeat slowly::Turkish->English": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__asking_someone_to_repeat_slowly__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__asking_someone_to_repeat_slowly__turkish_to_english.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::simple misunderstanding phrases::English->Turkish": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__simple_misunderstanding_phrases__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__simple_misunderstanding_phrases__english_to_turkish.checkpoint.jsonl"
+  },
+  "greetings_and_basic_conversation::simple misunderstanding phrases::Turkish->English": {
+    "status": "complete",
+    "target_count": 300,
+    "current_count": 300,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/greetings_and_basic_conversation__simple_misunderstanding_phrases__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/greetings_and_basic_conversation__simple_misunderstanding_phrases__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::finding assigned seat::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__finding_assigned_seat__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__finding_assigned_seat__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::finding assigned seat::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 668,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__finding_assigned_seat__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__finding_assigned_seat__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::someone sitting in passenger seat::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__someone_sitting_in_passenger_seat__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__someone_sitting_in_passenger_seat__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::someone sitting in passenger seat::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__someone_sitting_in_passenger_seat__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__someone_sitting_in_passenger_seat__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::window aisle and middle seat requests::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__window_aisle_and_middle_seat_requests__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__window_aisle_and_middle_seat_requests__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::window aisle and middle seat requests::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__window_aisle_and_middle_seat_requests__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__window_aisle_and_middle_seat_requests__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::family sitting together::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__family_sitting_together__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__family_sitting_together__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::family sitting together::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__family_sitting_together__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__family_sitting_together__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::overhead bin and under-seat bag placement::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__overhead_bin_and_under_seat_bag_placement__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__overhead_bin_and_under_seat_bag_placement__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::overhead bin and under-seat bag placement::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__overhead_bin_and_under_seat_bag_placement__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__overhead_bin_and_under_seat_bag_placement__turkish_to_english.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::seatbelt and aisle clearance instructions::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 670,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__seatbelt_and_aisle_clearance_instructions__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__seatbelt_and_aisle_clearance_instructions__english_to_turkish.checkpoint.jsonl"
+  },
+  "seat_and_cabin_location::seatbelt and aisle clearance instructions::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/seat_and_cabin_location__seatbelt_and_aisle_clearance_instructions__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/seat_and_cabin_location__seatbelt_and_aisle_clearance_instructions__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::asking where the toilet is::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 418,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__asking_where_the_toilet_is__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__asking_where_the_toilet_is__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::asking where the toilet is::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__asking_where_the_toilet_is__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__asking_where_the_toilet_is__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::asking permission to use the toilet::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 418,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__asking_permission_to_use_the_toilet__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__asking_permission_to_use_the_toilet__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::asking permission to use the toilet::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__asking_permission_to_use_the_toilet__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__asking_permission_to_use_the_toilet__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::toilet occupied or unavailable::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__toilet_occupied_or_unavailable__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__toilet_occupied_or_unavailable__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::toilet occupied or unavailable::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__toilet_occupied_or_unavailable__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__toilet_occupied_or_unavailable__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::toilet problem reporting::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__toilet_problem_reporting__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__toilet_problem_reporting__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::toilet problem reporting::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__toilet_problem_reporting__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__toilet_problem_reporting__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::seatbelt sign and toilet restriction::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__seatbelt_sign_and_toilet_restriction__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__seatbelt_sign_and_toilet_restriction__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::seatbelt sign and toilet restriction::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__seatbelt_sign_and_toilet_restriction__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__seatbelt_sign_and_toilet_restriction__turkish_to_english.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::urgent toilet need::English->Turkish": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 416,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__urgent_toilet_need__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__urgent_toilet_need__english_to_turkish.checkpoint.jsonl"
+  },
+  "toilet_and_lavatory::urgent toilet need::Turkish->English": {
+    "status": "complete",
+    "target_count": 416,
+    "current_count": 417,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/toilet_and_lavatory__urgent_toilet_need__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/toilet_and_lavatory__urgent_toilet_need__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::asking for water tea coffee or juice::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__asking_for_water_tea_coffee_or_juice__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__asking_for_water_tea_coffee_or_juice__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::asking for water tea coffee or juice::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__asking_for_water_tea_coffee_or_juice__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__asking_for_water_tea_coffee_or_juice__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::meal choice chicken beef fish pasta::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__meal_choice_chicken_beef_fish_pasta__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__meal_choice_chicken_beef_fish_pasta__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::meal choice chicken beef fish pasta::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__meal_choice_chicken_beef_fish_pasta__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__meal_choice_chicken_beef_fish_pasta__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::vegetarian vegan halal and dietary requests::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__vegetarian_vegan_halal_and_dietary_requests__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__vegetarian_vegan_halal_and_dietary_requests__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::vegetarian vegan halal and dietary requests::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__vegetarian_vegan_halal_and_dietary_requests__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__vegetarian_vegan_halal_and_dietary_requests__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::food allergy warnings::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__food_allergy_warnings__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__food_allergy_warnings__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::food allergy warnings::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__food_allergy_warnings__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__food_allergy_warnings__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::asking for bread napkin or extra drink::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__asking_for_bread_napkin_or_extra_drink__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__asking_for_bread_napkin_or_extra_drink__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::asking for bread napkin or extra drink::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 649,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__asking_for_bread_napkin_or_extra_drink__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__asking_for_bread_napkin_or_extra_drink__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::complaining about cold or missing food::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__complaining_about_cold_or_missing_food__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__complaining_about_cold_or_missing_food__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::complaining about cold or missing food::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__complaining_about_cold_or_missing_food__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__complaining_about_cold_or_missing_food__turkish_to_english.checkpoint.jsonl"
+  },
+  "food_and_drink::special meal already ordered::English->Turkish": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__special_meal_already_ordered__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__special_meal_already_ordered__english_to_turkish.checkpoint.jsonl"
+  },
+  "food_and_drink::special meal already ordered::Turkish->English": {
+    "status": "complete",
+    "target_count": 642,
+    "current_count": 642,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/food_and_drink__special_meal_already_ordered__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/food_and_drink__special_meal_already_ordered__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::asking for blanket or pillow::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__asking_for_blanket_or_pillow__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__asking_for_blanket_or_pillow__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::asking for blanket or pillow::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__asking_for_blanket_or_pillow__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__asking_for_blanket_or_pillow__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::feeling cold or hot::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__feeling_cold_or_hot__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__feeling_cold_or_hot__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::feeling cold or hot::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 584,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__feeling_cold_or_hot__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__feeling_cold_or_hot__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::air vent reading light and tray table::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__air_vent_reading_light_and_tray_table__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__air_vent_reading_light_and_tray_table__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::air vent reading light and tray table::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__air_vent_reading_light_and_tray_table__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__air_vent_reading_light_and_tray_table__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::screen headphones and entertainment problems::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__screen_headphones_and_entertainment_problems__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__screen_headphones_and_entertainment_problems__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::screen headphones and entertainment problems::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__screen_headphones_and_entertainment_problems__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__screen_headphones_and_entertainment_problems__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::seat recline or broken seat::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__seat_recline_or_broken_seat__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__seat_recline_or_broken_seat__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::seat recline or broken seat::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__seat_recline_or_broken_seat__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__seat_recline_or_broken_seat__turkish_to_english.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::asking for sick bag::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__asking_for_sick_bag__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__asking_for_sick_bag__english_to_turkish.checkpoint.jsonl"
+  },
+  "comfort_and_cabin_needs::asking for sick bag::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/comfort_and_cabin_needs__asking_for_sick_bag__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/comfort_and_cabin_needs__asking_for_sick_bag__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::asking flight duration::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__asking_flight_duration__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__asking_flight_duration__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::asking flight duration::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__asking_flight_duration__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__asking_flight_duration__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::asking arrival and landing time::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__asking_arrival_and_landing_time__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__asking_arrival_and_landing_time__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::asking arrival and landing time::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 667,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__asking_arrival_and_landing_time__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__asking_arrival_and_landing_time__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::delay and waiting explanations::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__delay_and_waiting_explanations__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__delay_and_waiting_explanations__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::delay and waiting explanations::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 667,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__delay_and_waiting_explanations__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__delay_and_waiting_explanations__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::connecting flight concerns::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 667,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__connecting_flight_concerns__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__connecting_flight_concerns__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::connecting flight concerns::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__connecting_flight_concerns__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__connecting_flight_concerns__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::local time at destination::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__local_time_at_destination__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__local_time_at_destination__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::local time at destination::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__local_time_at_destination__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__local_time_at_destination__turkish_to_english.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::gate and baggage claim after landing::English->Turkish": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__gate_and_baggage_claim_after_landing__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__gate_and_baggage_claim_after_landing__english_to_turkish.checkpoint.jsonl"
+  },
+  "flight_time_delay_and_arrival::gate and baggage claim after landing::Turkish->English": {
+    "status": "complete",
+    "target_count": 666,
+    "current_count": 666,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/flight_time_delay_and_arrival__gate_and_baggage_claim_after_landing__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/flight_time_delay_and_arrival__gate_and_baggage_claim_after_landing__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::placing cabin bag::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 585,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__placing_cabin_bag__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__placing_cabin_bag__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::placing cabin bag::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 585,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__placing_cabin_bag__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__placing_cabin_bag__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::bag does not fit::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__bag_does_not_fit__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__bag_does_not_fit__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::bag does not fit::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__bag_does_not_fit__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__bag_does_not_fit__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::lost phone wallet passport or headphones::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__lost_phone_wallet_passport_or_headphones__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__lost_phone_wallet_passport_or_headphones__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::lost phone wallet passport or headphones::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 592,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__lost_phone_wallet_passport_or_headphones__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__lost_phone_wallet_passport_or_headphones__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::forgotten item on plane::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__forgotten_item_on_plane__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__forgotten_item_on_plane__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::forgotten item on plane::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__forgotten_item_on_plane__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__forgotten_item_on_plane__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::wrong bag or damaged suitcase::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__wrong_bag_or_damaged_suitcase__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__wrong_bag_or_damaged_suitcase__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::wrong bag or damaged suitcase::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__wrong_bag_or_damaged_suitcase__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__wrong_bag_or_damaged_suitcase__turkish_to_english.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::lost luggage reporting::English->Turkish": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__lost_luggage_reporting__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__lost_luggage_reporting__english_to_turkish.checkpoint.jsonl"
+  },
+  "baggage_and_personal_items::lost luggage reporting::Turkish->English": {
+    "status": "complete",
+    "target_count": 583,
+    "current_count": 583,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/baggage_and_personal_items__lost_luggage_reporting__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/baggage_and_personal_items__lost_luggage_reporting__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::traveling with child::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__traveling_with_child__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__traveling_with_child__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::traveling with child::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__traveling_with_child__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__traveling_with_child__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::family seating requests::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__family_seating_requests__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__family_seating_requests__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::family seating requests::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__family_seating_requests__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__family_seating_requests__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::baby milk and bottle warming::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 502,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__baby_milk_and_bottle_warming__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__baby_milk_and_bottle_warming__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::baby milk and bottle warming::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__baby_milk_and_bottle_warming__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__baby_milk_and_bottle_warming__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::child meal and baby food::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 506,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__child_meal_and_baby_food__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__child_meal_and_baby_food__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::child meal and baby food::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__child_meal_and_baby_food__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__child_meal_and_baby_food__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::child is sick afraid or crying::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__child_is_sick_afraid_or_crying__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__child_is_sick_afraid_or_crying__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::child is sick afraid or crying::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__child_is_sick_afraid_or_crying__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__child_is_sick_afraid_or_crying__turkish_to_english.checkpoint.jsonl"
+  },
+  "children_and_family::stroller and diaper change needs::English->Turkish": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 503,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__stroller_and_diaper_change_needs__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__stroller_and_diaper_change_needs__english_to_turkish.checkpoint.jsonl"
+  },
+  "children_and_family::stroller and diaper change needs::Turkish->English": {
+    "status": "complete",
+    "target_count": 500,
+    "current_count": 500,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/children_and_family__stroller_and_diaper_change_needs__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/children_and_family__stroller_and_diaper_change_needs__turkish_to_english.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::traveling with pet in cabin::English->Turkish": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 293,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__traveling_with_pet_in_cabin__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__traveling_with_pet_in_cabin__english_to_turkish.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::traveling with pet in cabin::Turkish->English": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 291,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__traveling_with_pet_in_cabin__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__traveling_with_pet_in_cabin__turkish_to_english.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::service animal explanation::English->Turkish": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 291,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__service_animal_explanation__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__service_animal_explanation__english_to_turkish.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::service animal explanation::Turkish->English": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 291,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__service_animal_explanation__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__service_animal_explanation__turkish_to_english.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::pet carrier under seat::English->Turkish": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 291,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__pet_carrier_under_seat__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__pet_carrier_under_seat__english_to_turkish.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::pet carrier under seat::Turkish->English": {
+    "status": "complete",
+    "target_count": 291,
+    "current_count": 291,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__pet_carrier_under_seat__turkish_to_english.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__pet_carrier_under_seat__turkish_to_english.checkpoint.jsonl"
+  },
+  "pets_and_service_animals::pet is anxious::English->Turkish": {
+    "status": "running",
+    "target_count": 291,
+    "current_count": 44,
+    "chunk_path": "/content/airplane_translation_dataset/scenario_chunks/pets_and_service_animals__pet_is_anxious__english_to_turkish.jsonl",
+    "checkpoint_path": "/content/airplane_translation_dataset/checkpoints/pets_and_service_animals__pet_is_anxious__english_to_turkish.checkpoint.jsonl"
+  }
+}

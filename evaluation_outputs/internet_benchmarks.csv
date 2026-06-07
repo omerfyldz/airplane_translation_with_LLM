@@ -1,0 +1,9 @@
+﻿model,direction,dataset,metric,value,source_url,notes,retrieval_date
+Helsinki-NLP/opus-mt-tc-big-en-tr,English->Turkish,tatoeba-test-v2021-08-07,BLEU,42.3,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-tr,Model-card score; external dataset.,2026-06-06
+Helsinki-NLP/opus-mt-tc-big-en-tr,English->Turkish,flores101-devtest,BLEU,31.4,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-tr,Model-card score; external dataset.,2026-06-06
+Helsinki-NLP/opus-mt-tc-big-en-tr,English->Turkish,flores101-devtest,chr-F,0.62829,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-en-tr,Model-card chr-F (different scale than our chrF++).,2026-06-06
+Helsinki-NLP/opus-mt-tc-big-tr-en,Turkish->English,tatoeba-test-v2021-08-07,BLEU,57.6,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-tr-en,Model-card score; external dataset.,2026-06-06
+Helsinki-NLP/opus-mt-tc-big-tr-en,Turkish->English,flores101-devtest,BLEU,37.6,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-tr-en,Model-card score; external dataset.,2026-06-06
+Helsinki-NLP/opus-mt-tc-big-tr-en,Turkish->English,flores101-devtest,chr-F,0.64152,https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-tr-en,Model-card chr-F (different scale than our chrF++).,2026-06-06
+JAIST WMT17 phrase-based system,Turkish->English,newstest2017,BLEU,13.1,https://www.statmt.org/wmt17/pdf/WMT41.pdf,Historical WMT17 news-domain; not comparable.,2026-06-06
+JAIST WMT17 phrase-based system,English->Turkish,newstest2017,BLEU,10.4,https://www.statmt.org/wmt17/pdf/WMT41.pdf,Historical WMT17 news-domain; not comparable.,2026-06-06

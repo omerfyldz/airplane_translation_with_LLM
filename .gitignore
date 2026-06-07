@@ -1,0 +1,7 @@
+deliverables/
+airplane_translation_model/merged_final_model/model.safetensors
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
